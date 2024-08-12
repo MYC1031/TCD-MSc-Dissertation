@@ -1,0 +1,1001 @@
+year,month,day,order,country,session ID,page 1,page 2,colour,location on screen,model photography,price,price2,page number in e-store
+2008.0,4.0,13.0,1.0,Poland,1679.0,sale,P16,of many colors,bottom right,en face,38.0,1.0,2.0
+2008.0,4.0,13.0,8.0,Poland,15990.0,sale,P49,black,bottom right,en face,48.0,1.0,1.0
+2008.0,4.0,16.0,5.0,Poland,4696.0,trousers,A41,blue,top left,en face,23.0,2.0,1.0
+2008.0,2.0,8.0,2.0,Poland,4453.0,trousers,A5,blue,bottom in the middle,en face,43.0,2.0,1.0
+2008.0,7.0,8.0,5.0,Czech Republic,16222.0,skirts,B2,brown,top left,en face,43.0,1.0,1.0
+2008.0,6.0,23.0,2.0,Poland,17.0,sale,P3,gray,bottom right,profile,48.0,2.0,1.0
+2008.0,5.0,26.0,4.0,Poland,1184.0,skirts,B8,gray,bottom left,en face,43.0,2.0,1.0
+2008.0,4.0,14.0,2.0,Poland,15222.0,skirt,A50,of many colors,top in the middle,en face,43.0,1.0,1.0
+2008.0,5.0,11.0,3.0,Poland,17185.0,blouses,C42,of many colors,top in the middle,en face,28.0,1.0,1.0
+2008.0,5.0,24.0,3.0,Poland,4648.0,sale,B4,white,bottom left,profile,33.0,2.0,2.0
+2008.0,5.0,29.0,6.0,Poland,8982.0,blouses,C38,brown,bottom in the middle,en face,33.0,2.0,1.0
+2008.0,7.0,27.0,2.0,Poland,2329.0,skirts,B27,white,top right,en face,28.0,1.0,1.0
+2008.0,7.0,6.0,6.0,Poland,10771.0,skirts,B21,brown,bottom right,en face,38.0,2.0,2.0
+2008.0,5.0,3.0,4.0,Poland,8489.0,sale,P1,black,bottom right,en face,28.0,2.0,1.0
+2008.0,7.0,16.0,3.0,Poland,15644.0,sale,P3,gray,top in the middle,en face,38.0,2.0,1.0
+2008.0,7.0,25.0,6.0,Poland,18098.0,blouses,C27,white,top left,profile,62.0,1.0,2.0
+2008.0,6.0,17.0,6.0,Poland,6745.0,trousers,A15,blue,top in the middle,en face,43.0,1.0,1.0
+2008.0,5.0,28.0,4.0,Poland,21217.0,skirts,B1,white,top right,en face,38.0,1.0,1.0
+2008.0,4.0,10.0,1.0,Poland,13243.0,sale,P36,blue,top right,en face,33.0,1.0,2.0
+2008.0,4.0,13.0,2.0,Poland,5146.0,blouses,C50,black,top left,en face,28.0,2.0,2.0
+2008.0,5.0,7.0,1.0,Poland,6265.0,skirts,B15,blue,bottom right,en face,38.0,1.0,3.0
+2008.0,4.0,9.0,1.0,Poland,10346.0,trousers,A31,brown,top in the middle,en face,57.0,2.0,1.0
+2008.0,4.0,23.0,1.0,Poland,157502.0,trousers,A15,of many colors,top in the middle,profile,62.0,1.0,1.0
+2008.0,8.0,22.0,1.0,Poland,18236.0,skirts,B15,white,top left,en face,43.0,1.0,2.0
+2008.0,4.0,4.0,4.0,Czech Republic,22332.0,trousers,A5,blue,top left,en face,28.0,1.0,1.0
+2008.0,7.0,29.0,1.0,Czech Republic,18477.0,skirts,B2,black,bottom left,en face,38.0,2.0,3.0
+2008.0,4.0,6.0,3.0,Poland,1379.0,sale,P47,pink,bottom left,en face,57.0,2.0,2.0
+2008.0,8.0,8.0,3.0,Poland,4160.0,blouses,C30,white,bottom right,profile,62.0,1.0,1.0
+2008.0,7.0,19.0,6.0,Poland,13363.0,blouses,C36,black,top left,en face,28.0,2.0,2.0
+2008.0,5.0,2.0,8.0,Poland,15000.0,blouses,C35,gray,top left,en face,38.0,1.0,1.0
+2008.0,4.0,7.0,1.0,Poland,1398.0,skirts,B5,blue,bottom left,en face,52.0,1.0,3.0
+2008.0,7.0,19.0,2.0,Poland,6333.0,sale,P3,green,bottom right,en face,43.0,2.0,1.0
+2008.0,6.0,4.0,3.0,Poland,17996.0,trousers,A21,blue,top left,en face,28.0,2.0,1.0
+2008.0,5.0,2.0,5.0,Poland,7276.0,sale,P1,black,bottom in the middle,profile,33.0,2.0,2.0
+2008.0,6.0,29.0,9.0,Poland,1679.0,trousers,A15,white,top left,en face,38.0,2.0,1.0
+2008.0,5.0,7.0,3.0,Poland,1810.0,trousers,A4,black,top in the middle,profile,28.0,2.0,1.0
+2008.0,5.0,8.0,8.0,Poland,6219.0,trousers,A5,red,top left,en face,38.0,1.0,2.0
+2008.0,6.0,13.0,1.0,Poland,1809.0,skirts,B1,black,top left,en face,43.0,2.0,1.0
+2008.0,5.0,13.0,1.0,Poland,15686.0,trousers,A21,blue,top in the middle,en face,38.0,2.0,1.0
+2008.0,7.0,8.0,2.0,Poland,6057.0,skirts,B4,white,top in the middle,en face,43.0,1.0,1.0
+2008.0,4.0,9.0,4.0,Poland,13222.0,trousers,A6,blue,bottom right,en face,38.0,2.0,3.0
+2008.0,5.0,24.0,29.0,Poland,20336.0,sale,P6,violet,top in the middle,en face,28.0,1.0,1.0
+2008.0,5.0,11.0,1.0,Poland,21511.0,sale,P1,blue,bottom right,en face,38.0,2.0,1.0
+2008.0,4.0,5.0,11.0,Poland,12096.0,skirts,B1,white,top right,en face,52.0,2.0,1.0
+2008.0,7.0,14.0,3.0,Poland,2412.0,trousers,A3,brown,top left,en face,28.0,1.0,1.0
+2008.0,4.0,29.0,1.0,Poland,2378.0,sale,P6,blue,bottom left,profile,38.0,1.0,2.0
+2008.0,5.0,28.0,8.0,Poland,23.0,trousers,A38,gray,top in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,10.0,11.0,Poland,16012.0,trousers,A21,black,top in the middle,en face,62.0,2.0,1.0
+2008.0,8.0,6.0,2.0,Poland,2373.0,trousers,A31,brown,bottom right,en face,28.0,2.0,1.0
+2008.0,7.0,28.0,2.0,Poland,15571.0,skirts,B21,white,top left,en face,57.0,1.0,1.0
+2008.0,5.0,4.0,2.0,Poland,15163.0,skirts,B14,beige,bottom in the middle,en face,43.0,1.0,2.0
+2008.0,4.0,12.0,2.0,Lithuania,18962.0,skirts,B15,white,top in the middle,en face,43.0,1.0,1.0
+2008.0,7.0,12.0,3.0,Poland,1810.0,sale,P2,white,bottom in the middle,en face,23.0,1.0,2.0
+2008.0,6.0,18.0,1.0,Poland,878.0,blouses,C21,gray,bottom left,en face,28.0,1.0,1.0
+2008.0,4.0,13.0,11.0,Poland,618.0,trousers,A6,blue,bottom in the middle,profile,28.0,1.0,1.0
+2008.0,6.0,10.0,12.0,Poland,15955.0,trousers,A55,black,bottom in the middle,en face,38.0,2.0,2.0
+2008.0,7.0,24.0,43.0,Poland,17342.0,blouses,C10,blue,bottom in the middle,profile,28.0,2.0,2.0
+2008.0,6.0,20.0,3.0,Poland,2049.0,sale,P6,red,top left,en face,38.0,2.0,3.0
+2008.0,4.0,11.0,2.0,Poland,110982.0,sale,P17,of many colors,bottom right,profile,38.0,1.0,1.0
+2008.0,6.0,17.0,2.0,Poland,13000.0,skirts,B5,green,top in the middle,profile,57.0,1.0,3.0
+2008.0,5.0,16.0,6.0,Poland,13983.0,blouses,C33,black,bottom left,en face,38.0,2.0,2.0
+2008.0,7.0,25.0,2.0,Poland,1189.0,blouses,C56,violet,top in the middle,profile,55.0,2.0,1.0
+2008.0,7.0,8.0,1.0,Poland,14250.0,sale,P3,green,top in the middle,en face,33.0,2.0,2.0
+2008.0,7.0,18.0,3.0,Poland,22478.0,blouses,C11,blue,bottom right,en face,82.0,2.0,2.0
+2008.0,5.0,22.0,4.0,Poland,1389.0,trousers,A11,black,top in the middle,en face,57.0,2.0,2.0
+2008.0,8.0,1.0,6.0,Poland,23252.0,skirts,B13,brown,top left,en face,28.0,1.0,1.0
+2008.0,7.0,10.0,2.0,Poland,7174.0,skirts,B12,gray,bottom right,en face,82.0,1.0,1.0
+2008.0,6.0,26.0,2.0,Poland,5737.0,trousers,A3,blue,top left,en face,43.0,1.0,2.0
+2008.0,8.0,1.0,7.0,Czech Republic,6177.0,blouses,C3,white,top left,profile,38.0,2.0,2.0
+2008.0,7.0,4.0,1.0,Poland,14700.0,blouses,C19,brown,top left,profile,38.0,1.0,1.0
+2008.0,6.0,17.0,2.0,Poland,1234.0,skirts,B16,blue,top in the middle,en face,62.0,1.0,5.0
+2008.0,8.0,6.0,2.0,Poland,8571.0,trousers,A6,brown,top right,en face,38.0,2.0,3.0
+2008.0,7.0,18.0,10.0,Poland,7995.0,trousers,A31,gray,bottom right,en face,38.0,1.0,1.0
+2008.0,5.0,19.0,10.0,Poland,20896.0,skirts,B13,blue,top in the middle,en face,28.0,2.0,1.0
+2008.0,7.0,8.0,11.0,Poland,9093.0,skirts,B26,gray,top in the middle,en face,48.0,2.0,3.0
+2008.0,4.0,25.0,2.0,Poland,7784.0,sale,P21,blue,top right,en face,33.0,1.0,1.0
+2008.0,4.0,10.0,6.0,Poland,7243.0,blouses,C19,brown,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,4.0,1.0,2.0,Poland,15265.0,sale,P65,gray,bottom left,profile,38.0,2.0,1.0
+2008.0,4.0,13.0,3.0,Poland,17052.0,blouses,C27,blue,bottom left,en face,23.0,2.0,1.0
+2008.0,4.0,10.0,7.0,Poland,16342.0,blouses,C36,brown,bottom in the middle,en face,67.0,2.0,1.0
+2008.0,6.0,4.0,10.0,Poland,3265.0,skirts,B5,white,top left,en face,62.0,2.0,2.0
+2008.0,6.0,17.0,8.0,Poland,3170.0,sale,P15,brown,top left,profile,33.0,2.0,1.0
+2008.0,7.0,16.0,2.0,Poland,12334.0,skirts,B24,white,top in the middle,en face,38.0,2.0,1.0
+2008.0,4.0,12.0,7.0,Czech Republic,1489.0,trousers,A16,black,bottom right,en face,38.0,2.0,1.0
+2008.0,5.0,16.0,12.0,Poland,6342.0,trousers,B26,violet,top left,en face,43.0,1.0,1.0
+2008.0,8.0,10.0,2.0,Poland,6378.0,skirts,B13,red,bottom left,model photography,43.0,1.0,4.0
+2008.0,4.0,29.0,13.0,Poland,19160.0,trousers,A4,blue,bottom in the middle,en face,38.0,1.0,2.0
+2008.0,5.0,28.0,1.0,Poland,7094.0,sale,P2,black,bottom left,en face,62.0,1.0,3.0
+2008.0,4.0,12.0,2.0,Poland,609.0,trousers,A46,black,bottom in the middle,profile,52.0,2.0,1.0
+2008.0,8.0,3.0,6.0,Poland,15243.0,sale,P7,brown,top right,en face,38.0,2.0,3.0
+2008.0,6.0,16.0,16.0,Poland,15385.0,skirts,B1,white,top in the middle,en face,23.0,2.0,2.0
+2008.0,4.0,2.0,2.0,Poland,6092.0,sale,P6,brown,bottom in the middle,en face,38.0,1.0,2.0
+2008.0,7.0,11.0,8.0,Czech Republic,8336.0,skirts,B19,brown,top in the middle,en face,67.0,1.0,1.0
+2008.0,5.0,7.0,1.0,Poland,11029.0,blouses,C18,blue,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,6.0,8.0,4.0,Poland,2300.0,blouses,C14,black,top left,profile,43.0,1.0,1.0
+2008.0,4.0,18.0,9.0,Poland,8177.0,blouses,C40,gray,top in the middle,profile,38.0,1.0,1.0
+2008.0,5.0,10.0,1.0,Poland,9276.0,skirts,B13,black,top in the middle,en face,62.0,2.0,3.0
+2008.0,6.0,18.0,8.0,Czech Republic,9336.0,trousers,A1,blue,top left,en face,28.0,1.0,1.0
+2008.0,5.0,30.0,22.0,Poland,16222.0,blouses,C16,red,top left,profile,28.0,1.0,1.0
+2008.0,5.0,29.0,3.0,Poland,15985.0,skirts,B11,white,top left,profile,62.0,2.0,2.0
+2008.0,4.0,28.0,21.0,Poland,8356.0,sale,P67,blue,top left,en face,38.0,2.0,2.0
+2008.0,4.0,7.0,4.0,Poland,16250.0,skirts,B30,brown,top right,en face,28.0,2.0,1.0
+2008.0,8.0,4.0,4.0,Poland,9167.0,trousers,A4,blue,top right,en face,43.0,1.0,2.0
+2008.0,4.0,7.0,16.0,Czech Republic,22427.0,skirts,P2,blue,top left,en face,28.0,2.0,1.0
+2008.0,5.0,17.0,9.0,Poland,18087.0,sale,P39,blue,top left,en face,33.0,1.0,1.0
+2008.0,7.0,27.0,6.0,Poland,10773.0,blouses,C17,blue,bottom right,en face,38.0,2.0,3.0
+2008.0,7.0,15.0,10.0,Poland,19521.0,sale,P1,blue,top left,en face,38.0,2.0,2.0
+2008.0,6.0,8.0,2.0,Poland,15643.0,sale,P29,of many colors,bottom left,profile,28.0,1.0,1.0
+2008.0,5.0,7.0,43.0,Poland,1048.0,sale,P6,blue,top in the middle,en face,38.0,1.0,2.0
+2008.0,7.0,2.0,3.0,Poland,1315.0,skirts,B23,white,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,5.0,17.0,1.0,Poland,12784.0,trousers,A31,black,top right,en face,38.0,1.0,1.0
+2008.0,4.0,16.0,3.0,Poland,19193.0,sale,P27,black,bottom right,profile,38.0,2.0,1.0
+2008.0,7.0,27.0,6.0,Poland,13167.0,skirts,B23,pink,top left,en face,33.0,1.0,1.0
+2008.0,7.0,8.0,3.0,*.net,16700.0,skirts,B10,of many colors,bottom in the middle,en face,43.0,2.0,1.0
+2008.0,5.0,16.0,4.0,Poland,18383.0,blouses,C36,gray,top left,en face,38.0,1.0,1.0
+2008.0,7.0,1.0,1.0,Poland,16500.0,skirts,B11,white,top right,en face,48.0,1.0,3.0
+2008.0,6.0,26.0,11.0,Czech Republic,2811.0,sale,P1,brown,top in the middle,en face,38.0,2.0,1.0
+2008.0,4.0,30.0,2.0,Poland,559.0,sale,P17,of many colors,bottom in the middle,profile,38.0,2.0,1.0
+2008.0,4.0,1.0,2.0,Poland,5658.0,trousers,A5,blue,top in the middle,en face,52.0,1.0,1.0
+2008.0,4.0,24.0,23.0,Poland,20250.0,sale,P62,blue,top right,en face,38.0,2.0,1.0
+2008.0,7.0,3.0,2.0,Poland,1489.0,trousers,B1,black,top left,en face,62.0,1.0,2.0
+2008.0,4.0,1.0,2.0,Poland,28.0,skirts,B15,blue,bottom left,en face,48.0,1.0,1.0
+2008.0,4.0,21.0,7.0,Poland,12798.0,sale,P21,black,top in the middle,en face,48.0,2.0,2.0
+2008.0,5.0,9.0,1.0,Poland,17336.0,sale,P5,red,top in the middle,en face,38.0,2.0,2.0
+2008.0,4.0,7.0,2.0,Poland,15383.0,blouses,C6,white,top left,profile,28.0,2.0,2.0
+2008.0,7.0,27.0,2.0,Poland,13802.0,blouses,C51,blue,top left,en face,57.0,1.0,2.0
+2008.0,5.0,11.0,4.0,Poland,8996.0,skirts,B15,black,bottom left,profile,26.0,1.0,1.0
+2008.0,7.0,3.0,6.0,Slovakia,5363.0,trousers,A3,blue,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,4.0,1.0,12.0,Poland,12400.0,blouses,C5,brown,top in the middle,en face,57.0,1.0,2.0
+2008.0,5.0,7.0,1.0,Poland,15107.0,blouses,C5,red,bottom right,en face,43.0,1.0,3.0
+2008.0,7.0,4.0,43.0,Poland,16276.0,skirts,B15,of many colors,top in the middle,en face,43.0,1.0,2.0
+2008.0,4.0,4.0,1.0,Poland,631.0,trousers,A7,black,bottom in the middle,en face,38.0,2.0,1.0
+2008.0,4.0,28.0,4.0,Poland,6665.0,skirts,B26,white,top in the middle,en face,43.0,1.0,2.0
+2008.0,7.0,14.0,15.0,Poland,3254.0,blouses,C59,black,bottom left,en face,48.0,1.0,1.0
+2008.0,5.0,21.0,4.0,Poland,16896.0,sale,P16,white,bottom left,profile,43.0,1.0,2.0
+2008.0,5.0,9.0,12.0,Poland,18571.0,trousers,A15,blue,top in the middle,en face,62.0,1.0,4.0
+2008.0,5.0,11.0,24.0,Poland,4477.0,skirts,B10,black,top right,en face,48.0,2.0,5.0
+2008.0,6.0,17.0,4.0,Czech Republic,2422.0,skirts,B27,white,bottom left,en face,33.0,1.0,3.0
+2008.0,5.0,6.0,2.0,Poland,23265.0,trousers,A21,black,bottom left,profile,38.0,2.0,1.0
+2008.0,5.0,25.0,1.0,Poland,17174.0,skirts,B13,blue,top left,en face,62.0,1.0,2.0
+2008.0,6.0,25.0,10.0,Poland,10571.0,trousers,A32,blue,top right,profile,38.0,1.0,2.0
+2008.0,4.0,14.0,2.0,Poland,9571.0,trousers,A1,blue,top in the middle,en face,62.0,1.0,2.0
+2008.0,7.0,23.0,2.0,Poland,10990.0,skirts,B14,black,bottom left,en face,43.0,1.0,1.0
+2008.0,6.0,8.0,1.0,Poland,17053.0,blouses,C23,of many colors,top left,en face,48.0,2.0,4.0
+2008.0,6.0,30.0,2.0,Poland,7243.0,sale,P36,blue,top right,profile,38.0,2.0,1.0
+2008.0,7.0,9.0,8.0,Poland,2176.0,trousers,A10,black,bottom left,en face,67.0,1.0,1.0
+2008.0,4.0,4.0,2.0,Poland,10774.0,skirts,B15,blue,bottom right,en face,28.0,1.0,1.0
+2008.0,4.0,25.0,2.0,Poland,9673.0,skirts,B11,blue,top right,profile,62.0,1.0,3.0
+2008.0,5.0,3.0,4.0,Poland,9062.0,blouses,C21,gray,top in the middle,profile,48.0,2.0,1.0
+2008.0,7.0,5.0,2.0,Poland,8160.0,sale,P15,gray,top in the middle,en face,62.0,1.0,4.0
+2008.0,5.0,29.0,2.0,Poland,10201.0,sale,P1,blue,top left,en face,57.0,2.0,2.0
+2008.0,4.0,23.0,1.0,Poland,2393.0,sale,P6,black,top in the middle,profile,48.0,2.0,1.0
+2008.0,4.0,13.0,10.0,Poland,4474.0,skirts,B4,black,top left,en face,38.0,1.0,2.0
+2008.0,7.0,1.0,1.0,Poland,16444.0,trousers,A16,gray,top in the middle,en face,38.0,2.0,2.0
+2008.0,7.0,5.0,1.0,Poland,7057.0,sale,P44,blue,bottom in the middle,en face,38.0,2.0,1.0
+2008.0,5.0,15.0,4.0,Poland,13644.0,trousers,A5,brown,top left,en face,43.0,2.0,1.0
+2008.0,5.0,17.0,1.0,Poland,3115.0,blouses,B6,black,top in the middle,en face,43.0,2.0,1.0
+2008.0,6.0,3.0,3.0,Poland,1586.0,sale,P3,blue,bottom in the middle,en face,31.0,1.0,4.0
+2008.0,6.0,2.0,8.0,Poland,14076.0,trousers,A3,brown,top left,en face,33.0,2.0,2.0
+2008.0,4.0,7.0,12.0,Poland,13383.0,skirts,B15,red,top left,en face,38.0,1.0,1.0
+2008.0,8.0,16.0,5.0,Poland,22367.0,sale,P47,blue,top right,profile,43.0,1.0,1.0
+2008.0,4.0,9.0,11.0,Poland,13333.0,blouses,C11,gray,top left,en face,38.0,1.0,1.0
+2008.0,8.0,3.0,9.0,Poland,2696.0,skirts,B1,black,top in the middle,en face,28.0,1.0,1.0
+2008.0,6.0,11.0,2.0,Poland,4862.0,blouses,C5,blue,bottom left,en face,2.0,2.0,1.0
+2008.0,7.0,6.0,2.0,Poland,7797.0,blouses,C21,blue,top right,en face,38.0,2.0,2.0
+2008.0,5.0,21.0,3.0,Poland,6230.0,trousers,A37,blue,top left,en face,28.0,1.0,1.0
+2008.0,6.0,23.0,2.0,Czech Republic,15222.0,skirts,B32,pink,top right,en face,38.0,1.0,1.0
+2008.0,4.0,26.0,1.0,Poland,2170.0,blouses,C9,of many colors,top right,en face,62.0,2.0,1.0
+2008.0,7.0,23.0,3.0,Poland,6648.0,sale,C9,red,top in the middle,en face,43.0,1.0,3.0
+2008.0,7.0,17.0,9.0,Poland,17896.0,skirts,B15,white,bottom in the middle,en face,48.0,2.0,1.0
+2008.0,5.0,6.0,14.0,Poland,19544.0,blouses,C11,white,top in the middle,en face,38.0,2.0,1.0
+2008.0,5.0,7.0,5.0,Poland,18129.0,sale,P3,black,top left,profile,48.0,2.0,1.0
+2008.0,5.0,23.0,2.0,Poland,1512.0,trousers,A9,blue,bottom left,en face,38.0,2.0,1.0
+2008.0,7.0,5.0,4.0,Poland,8092.0,sale,P6,blue,bottom in the middle,en face,28.0,1.0,1.0
+2008.0,6.0,8.0,7.0,Poland,75002.0,skirts,B21,gray,bottom left,en face,38.0,2.0,1.0
+2008.0,6.0,13.0,1.0,Poland,18848.0,trousers,A7,black,top in the middle,en face,28.0,1.0,2.0
+2008.0,5.0,7.0,1.0,Poland,14982.0,skirts,B14,brown,top left,en face,38.0,2.0,4.0
+2008.0,5.0,12.0,8.0,Poland,12893.0,sale,P48,black,top left,en face,50.0,2.0,3.0
+2008.0,5.0,19.0,2.0,Poland,9333.0,skirts,B16,pink,bottom left,en face,38.0,1.0,3.0
+2008.0,6.0,6.0,4.0,Poland,17122.0,blouses,C18,black,top in the middle,en face,62.0,1.0,1.0
+2008.0,4.0,19.0,4.0,Poland,9333.0,skirts,B10,blue,top left,en face,38.0,2.0,4.0
+2008.0,7.0,1.0,1.0,Poland,12092.0,trousers,C39,of many colors,bottom in the middle,profile,48.0,2.0,1.0
+2008.0,5.0,25.0,8.0,Poland,13363.0,trousers,A31,blue,bottom right,profile,33.0,2.0,4.0
+2008.0,5.0,10.0,2.0,Poland,6185.0,blouses,C56,black,top in the middle,en face,43.0,2.0,3.0
+2008.0,6.0,21.0,7.0,Poland,3333.0,trousers,A11,blue,top left,en face,38.0,2.0,2.0
+2008.0,5.0,1.0,2.0,Poland,6383.0,sale,P34,blue,top left,en face,62.0,2.0,1.0
+2008.0,7.0,29.0,2.0,Poland,3141.0,trousers,A11,brown,bottom left,en face,52.0,1.0,3.0
+2008.0,7.0,22.0,8.0,Czech Republic,8472.0,blouses,C33,black,top left,profile,48.0,2.0,2.0
+2008.0,4.0,17.0,15.0,Poland,10893.0,sale,P18,brown,top in the middle,profile,38.0,2.0,1.0
+2008.0,4.0,23.0,3.0,Poland,15896.0,trousers,A4,black,top right,en face,57.0,2.0,1.0
+2008.0,7.0,17.0,1.0,Czech Republic,6123.0,blouses,C1,red,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,4.0,8.0,18.0,Poland,4167.0,sale,P13,brown,top right,en face,52.0,1.0,1.0
+2008.0,5.0,24.0,8.0,Poland,1612.0,sale,P7,black,bottom in the middle,en face,57.0,1.0,2.0
+2008.0,4.0,13.0,16.0,Poland,8881.0,skirts,B36,black,top left,en face,28.0,1.0,2.0
+2008.0,5.0,10.0,2.0,Poland,16052.0,skirts,B11,violet,bottom in the middle,en face,38.0,2.0,1.0
+2008.0,5.0,1.0,2.0,Poland,13400.0,blouses,C33,blue,top right,en face,33.0,1.0,1.0
+2008.0,5.0,23.0,3.0,38,11892.0,trousers,A1,brown,top right,en face,28.0,1.0,1.0
+2008.0,7.0,28.0,3.0,Poland,8665.0,blouses,C21,of many colors,top left,en face,43.0,2.0,1.0
+2008.0,4.0,4.0,15.0,Poland,15947.0,blouses,C56,brown,top left,en face,48.0,2.0,3.0
+2008.0,4.0,10.0,1.0,Poland,1610.0,trousers,A11,brown,bottom left,en face,57.0,1.0,3.0
+2008.0,6.0,23.0,2.0,Poland,16443.0,blouses,C40,white,top in the middle,en face,38.0,2.0,1.0
+2008.0,5.0,5.0,14.0,Poland,14160.0,blouses,C16,white,top left,en face,38.0,2.0,2.0
+2008.0,5.0,26.0,1.0,Poland,609.0,sale,P48,black,bottom left,profile,28.0,2.0,1.0
+2008.0,6.0,20.0,7.0,Poland,13333.0,sale,P16,brown,top right,en face,38.0,1.0,1.0
+2008.0,5.0,16.0,1.0,Poland,526.0,blouses,C38,black,top right,en face,43.0,1.0,2.0
+2008.0,7.0,26.0,2.0,Poland,11336.0,trousers,B2,white,top in the middle,profile,28.0,1.0,2.0
+2008.0,6.0,16.0,8.0,Poland,4776.0,blouses,C9,blue,top left,en face,38.0,1.0,4.0
+2008.0,4.0,23.0,4.0,Poland,15129.0,skirts,B26,black,top right,en face,38.0,2.0,3.0
+2008.0,4.0,3.0,9.0,Poland,6363.0,sale,B19,of many colors,bottom left,en face,48.0,1.0,1.0
+2008.0,7.0,12.0,15.0,Poland,4571.0,trousers,A2,black,bottom right,en face,38.0,2.0,3.0
+2008.0,4.0,18.0,2.0,Poland,4242.0,blouses,C17,gray,top right,en face,38.0,2.0,1.0
+2008.0,6.0,11.0,5.0,Poland,18092.0,skirts,B20,brown,top right,profile,38.0,1.0,3.0
+2008.0,8.0,2.0,11.0,Poland,16896.0,sale,P13,green,bottom in the middle,en face,38.0,2.0,1.0
+2008.0,6.0,2.0,6.0,Poland,9191.0,trousers,A15,violet,top in the middle,en face,38.0,2.0,1.0
+2008.0,4.0,3.0,1.0,Poland,19107.0,sale,P2,violet,bottom left,en face,38.0,2.0,2.0
+2008.0,7.0,8.0,12.0,Czech Republic,16097.0,blouses,C7,green,bottom right,en face,38.0,1.0,4.0
+2008.0,6.0,5.0,2.0,Poland,1796.0,sale,P53,blue,top left,en face,38.0,1.0,1.0
+2008.0,5.0,8.0,2.0,Poland,11588.0,trousers,A15,black,bottom right,profile,38.0,2.0,1.0
+2008.0,5.0,3.0,6.0,Poland,3232.0,trousers,A5,blue,bottom left,en face,43.0,1.0,2.0
+2008.0,5.0,10.0,1.0,Poland,13363.0,sale,P17,black,bottom right,profile,57.0,2.0,2.0
+2008.0,7.0,10.0,3.0,Poland,15975.0,skirts,B16,green,bottom left,en face,38.0,1.0,1.0
+2008.0,7.0,16.0,7.0,Czech Republic,17336.0,sale,P61,blue,top in the middle,profile,28.0,2.0,1.0
+2008.0,4.0,27.0,1.0,Poland,20336.0,skirts,A26,blue,top in the middle,en face,62.0,1.0,1.0
+2008.0,6.0,29.0,1.0,Czech Republic,4335.0,sale,P2,gray,top left,profile,28.0,1.0,3.0
+2008.0,5.0,5.0,2.0,Poland,12366.0,skirts,B15,red,top left,en face,43.0,2.0,1.0
+2008.0,4.0,2.0,5.0,Poland,1712.0,skirts,B32,black,top left,en face,38.0,1.0,1.0
+2008.0,5.0,8.0,1.0,Poland,6740.0,skirts,B31,white,top left,en face,33.0,2.0,1.0
+2008.0,6.0,25.0,2.0,*.com,17458.0,trousers,A49,of many colors,top right,en face,38.0,1.0,3.0
+2008.0,5.0,26.0,3.0,Poland,4372.0,trousers,A12,black,top right,en face,33.0,1.0,2.0
+2008.0,6.0,18.0,3.0,Poland,149.0,skirts,B25,violet,top left,en face,28.0,2.0,2.0
+2008.0,4.0,11.0,3.0,Czech Republic,5222.0,skirts,B9,blue,top right,profile,62.0,2.0,2.0
+2008.0,7.0,10.0,3.0,Poland,16101.0,sale,P12,of many colors,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,5.0,15.0,1.0,Poland,12644.0,trousers,A15,brown,bottom left,profile,57.0,1.0,1.0
+2008.0,3.0,27.0,2.0,Poland,13700.0,trousers,A7,brown,top in the middle,profile,52.0,1.0,2.0
+2008.0,4.0,4.0,5.0,Poland,2036.0,skirts,A10,brown,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,5.0,27.0,9.0,Poland,1605.0,trousers,A4,of many colors,top left,en face,33.0,2.0,1.0
+2008.0,4.0,14.0,2.0,Poland,4658.0,trousers,A4,blue,top left,en face,43.0,1.0,3.0
+2008.0,5.0,5.0,5.0,Poland,11342.0,trousers,A5,blue,top right,en face,38.0,1.0,2.0
+2008.0,7.0,11.0,14.0,Poland,6143.0,blouses,C16,white,top left,en face,62.0,1.0,3.0
+2008.0,7.0,8.0,12.0,Poland,1408.0,blouses,C55,brown,bottom right,en face,48.0,2.0,3.0
+2008.0,7.0,11.0,10.0,Poland,12553.0,skirts,B10,of many colors,bottom left,en face,48.0,2.0,2.0
+2008.0,6.0,8.0,1.0,Poland,20331.0,trousers,C1,blue,top left,en face,62.0,2.0,1.0
+2008.0,4.0,7.0,12.0,Czech Republic,13774.0,trousers,A3,blue,top right,en face,38.0,2.0,2.0
+2008.0,4.0,17.0,4.0,Poland,1589.0,trousers,A4,of many colors,top right,en face,43.0,2.0,1.0
+2008.0,8.0,15.0,7.0,Poland,16012.0,skirts,B26,white,top left,en face,33.0,2.0,1.0
+2008.0,7.0,2.0,6.0,Poland,5162.0,trousers,A2,black,top left,profile,28.0,1.0,2.0
+2008.0,5.0,24.0,1.0,Poland,13798.0,blouses,C17,of many colors,top right,en face,43.0,2.0,1.0
+2008.0,4.0,18.0,2.0,Poland,12961.0,sale,P46,blue,bottom left,profile,38.0,2.0,1.0
+2008.0,6.0,23.0,1.0,Poland,511.0,sale,P2,red,bottom right,en face,38.0,1.0,1.0
+2008.0,5.0,3.0,4.0,*.net,17100.0,skirts,B29,black,bottom right,en face,62.0,2.0,3.0
+2008.0,4.0,8.0,1.0,Poland,9648.0,trousers,A9,brown,bottom right,en face,38.0,1.0,1.0
+2008.0,5.0,12.0,15.0,Poland,3107.0,sale,P22,brown,bottom right,en face,28.0,2.0,1.0
+2008.0,4.0,10.0,2.0,Poland,8336.0,skirts,B1,blue,bottom left,en face,48.0,2.0,1.0
+2008.0,7.0,17.0,9.0,Czech Republic,13363.0,sale,P15,white,bottom left,en face,43.0,2.0,1.0
+2008.0,4.0,7.0,1.0,Poland,22319.0,blouses,C2,brown,top right,en face,62.0,2.0,3.0
+2008.0,4.0,20.0,7.0,Poland,3363.0,sale,P29,black,top in the middle,en face,43.0,2.0,5.0
+2008.0,5.0,13.0,2.0,Poland,9897.0,sale,P65,brown,top in the middle,profile,48.0,2.0,2.0
+2008.0,5.0,27.0,1.0,Poland,10037.0,trousers,A6,of many colors,top right,en face,28.0,1.0,2.0
+2008.0,5.0,23.0,5.0,Poland,67.0,trousers,A3,violet,bottom in the middle,en face,43.0,2.0,1.0
+2008.0,7.0,21.0,1.0,Poland,2117.0,trousers,A26,of many colors,top left,profile,38.0,1.0,2.0
+2008.0,6.0,12.0,15.0,Poland,14797.0,sale,P65,white,top right,en face,62.0,2.0,1.0
+2008.0,5.0,15.0,6.0,Poland,17776.0,trousers,P38,blue,bottom right,en face,38.0,2.0,3.0
+2008.0,4.0,2.0,11.0,Poland,5721.0,trousers,A5,blue,top left,en face,57.0,1.0,1.0
+2008.0,5.0,29.0,8.0,Poland,10671.0,blouses,C57,blue,bottom left,en face,43.0,1.0,2.0
+2008.0,4.0,4.0,28.0,Poland,17383.0,trousers,A2,brown,top left,en face,33.0,1.0,1.0
+2008.0,6.0,12.0,4.0,Poland,11372.0,blouses,C40,gray,top right,en face,43.0,2.0,1.0
+2008.0,8.0,12.0,13.0,Poland,12792.0,sale,P9,black,top left,en face,62.0,2.0,1.0
+2008.0,7.0,9.0,4.0,Poland,16737.0,skirts,B10,white,bottom right,en face,28.0,1.0,1.0
+2008.0,6.0,17.0,6.0,Slovakia,11510.0,skirts,B18,black,top left,en face,38.0,1.0,3.0
+2008.0,5.0,10.0,4.0,Poland,1798.0,blouses,C16,red,top right,en face,43.0,2.0,1.0
+2008.0,7.0,4.0,2.0,Poland,3245.0,trousers,A15,blue,top right,en face,62.0,1.0,1.0
+2008.0,4.0,7.0,6.0,Poland,10489.0,sale,P38,black,bottom left,en face,28.0,1.0,2.0
+2008.0,7.0,6.0,3.0,Poland,8594.0,blouses,C43,black,top right,profile,28.0,2.0,1.0
+2008.0,8.0,6.0,23.0,Poland,1.0,skirts,B13,black,top right,profile,38.0,2.0,3.0
+2008.0,7.0,5.0,3.0,Poland,17798.0,skirts,B21,gray,top right,en face,28.0,1.0,1.0
+2008.0,6.0,8.0,2.0,Poland,14185.0,sale,P1,black,top left,en face,33.0,2.0,1.0
+2008.0,4.0,13.0,1.0,Poland,5748.0,sale,P13,brown,bottom left,en face,28.0,1.0,2.0
+2008.0,4.0,17.0,2.0,Poland,9190.0,skirts,B8,brown,top left,en face,28.0,2.0,1.0
+2008.0,4.0,8.0,2.0,Poland,5363.0,sale,P2,white,bottom right,en face,33.0,1.0,3.0
+2008.0,7.0,9.0,2.0,Poland,20236.0,sale,P72,blue,top in the middle,en face,52.0,1.0,4.0
+2008.0,5.0,10.0,13.0,Poland,612.0,blouses,C13,brown,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,6.0,5.0,1.0,Czech Republic,13892.0,trousers,A15,black,top in the middle,en face,43.0,2.0,1.0
+2008.0,6.0,7.0,5.0,Poland,11100.0,trousers,A12,brown,bottom in the middle,profile,62.0,2.0,1.0
+2008.0,5.0,24.0,14.0,Poland,5723.0,skirts,B23,white,top right,en face,33.0,2.0,2.0
+2008.0,6.0,14.0,1.0,Poland,1129.0,trousers,A19,brown,top in the middle,en face,43.0,2.0,1.0
+2008.0,5.0,23.0,7.0,Poland,12385.0,sale,P48,black,bottom left,en face,33.0,1.0,4.0
+2008.0,6.0,17.0,6.0,Poland,17236.0,skirts,B4,black,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,5.0,13.0,1.0,Poland,5242.0,skirts,B10,black,top in the middle,profile,28.0,1.0,1.0
+2008.0,7.0,11.0,2.0,Poland,11848.0,blouses,C7,white,bottom in the middle,en face,57.0,2.0,1.0
+2008.0,7.0,26.0,4.0,Poland,5236.0,sale,P2,red,top left,profile,38.0,2.0,2.0
+2008.0,7.0,11.0,5.0,Poland,7797.0,sale,C2,brown,top in the middle,en face,38.0,1.0,1.0
+2008.0,4.0,28.0,1.0,Poland,1459.0,sale,P4,green,top right,en face,43.0,2.0,1.0
+2008.0,8.0,22.0,2.0,Poland,2117.0,sale,C1,blue,top right,en face,33.0,1.0,1.0
+2008.0,5.0,29.0,2.0,Poland,28.0,trousers,A9,red,top right,profile,43.0,1.0,3.0
+2008.0,5.0,11.0,2.0,Poland,13981.0,sale,P38,gray,bottom right,profile,43.0,2.0,3.0
+2008.0,5.0,23.0,7.0,Poland,20265.0,trousers,A3,black,top right,en face,38.0,2.0,1.0
+2008.0,5.0,9.0,1.0,Czech Republic,6296.0,blouses,C31,white,bottom right,profile,62.0,2.0,1.0
+2008.0,5.0,24.0,6.0,Poland,1909.0,sale,P2,red,bottom right,en face,43.0,2.0,1.0
+2008.0,5.0,10.0,7.0,*.com,1210.0,skirts,B19,pink,top right,en face,28.0,1.0,2.0
+2008.0,7.0,10.0,11.0,Poland,12177.0,blouses,C17,white,top right,en face,57.0,2.0,1.0
+2008.0,5.0,16.0,10.0,Poland,14939.0,skirts,B21,brown,top in the middle,en face,38.0,2.0,2.0
+2008.0,7.0,28.0,38.0,Poland,8571.0,trousers,A8,blue,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,6.0,26.0,7.0,*.net,13356.0,trousers,A8,white,bottom right,en face,48.0,2.0,2.0
+2008.0,4.0,5.0,6.0,Poland,13232.0,blouses,C1,white,top left,en face,43.0,1.0,1.0
+2008.0,6.0,8.0,14.0,Poland,15981.0,blouses,C6,of many colors,top left,profile,48.0,1.0,2.0
+2008.0,8.0,18.0,5.0,Poland,18082.0,sale,P2,beige,top left,en face,38.0,2.0,2.0
+2008.0,5.0,4.0,2.0,Poland,23265.0,trousers,A11,beige,top left,en face,62.0,1.0,2.0
+2008.0,5.0,4.0,10.0,Poland,1286.0,skirts,B26,red,top in the middle,en face,33.0,2.0,2.0
+2008.0,4.0,21.0,3.0,Poland,9594.0,blouses,C42,of many colors,bottom in the middle,en face,28.0,1.0,3.0
+2008.0,7.0,19.0,2.0,Poland,16185.0,trousers,A19,white,top left,en face,43.0,2.0,2.0
+2008.0,5.0,13.0,2.0,Poland,2856.0,trousers,A3,black,top left,profile,38.0,1.0,1.0
+2008.0,7.0,21.0,6.0,Poland,6963.0,trousers,A2,blue,top left,en face,38.0,1.0,1.0
+2008.0,7.0,2.0,3.0,Poland,10666.0,skirts,B29,of many colors,bottom left,profile,43.0,2.0,1.0
+2008.0,8.0,17.0,6.0,Poland,8383.0,blouses,C17,blue,bottom left,en face,38.0,1.0,3.0
+2008.0,6.0,12.0,8.0,Poland,15863.0,trousers,A11,white,top in the middle,en face,38.0,1.0,4.0
+2008.0,4.0,8.0,4.0,Poland,15958.0,trousers,A15,blue,top left,en face,38.0,1.0,1.0
+2008.0,6.0,1.0,2.0,Poland,20243.0,blouses,C40,white,top right,en face,43.0,1.0,1.0
+2008.0,5.0,31.0,7.0,Poland,16500.0,skirts,B15,green,top right,en face,38.0,1.0,1.0
+2008.0,8.0,20.0,2.0,Poland,15236.0,sale,P10,brown,bottom right,en face,72.0,1.0,1.0
+2008.0,5.0,13.0,14.0,Poland,7489.0,sale,P37,black,bottom right,en face,38.0,1.0,1.0
+2008.0,4.0,4.0,1.0,Poland,11258.0,blouses,P1,black,top right,en face,33.0,1.0,3.0
+2008.0,5.0,8.0,1.0,Czech Republic,15774.0,blouses,C40,gray,top left,profile,38.0,2.0,2.0
+2008.0,6.0,3.0,3.0,Poland,1496.0,sale,P2,of many colors,bottom right,en face,57.0,1.0,2.0
+2008.0,5.0,4.0,5.0,Poland,11042.0,sale,P19,black,top left,profile,38.0,1.0,1.0
+2008.0,6.0,2.0,2.0,Poland,17983.0,sale,P48,brown,bottom right,en face,62.0,2.0,3.0
+2008.0,7.0,7.0,1.0,Poland,907.0,sale,P12,blue,bottom left,profile,38.0,2.0,1.0
+2008.0,7.0,9.0,2.0,Poland,14057.0,sale,P50,of many colors,bottom in the middle,en face,57.0,2.0,2.0
+2008.0,5.0,10.0,1.0,Poland,16962.0,skirts,B20,white,top left,en face,38.0,1.0,1.0
+2008.0,4.0,6.0,5.0,Poland,17222.0,sale,P48,brown,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,7.0,14.0,1.0,Czech Republic,15385.0,trousers,A5,black,top left,profile,33.0,1.0,1.0
+2008.0,5.0,24.0,12.0,Poland,14915.0,skirts,B12,violet,top in the middle,en face,38.0,2.0,1.0
+2008.0,7.0,8.0,9.0,Czech Republic,2386.0,trousers,A6,blue,top left,en face,33.0,1.0,1.0
+2008.0,4.0,3.0,8.0,Poland,2333.0,skirts,B6,blue,top left,en face,38.0,1.0,1.0
+2008.0,7.0,15.0,3.0,Poland,12096.0,sale,P16,blue,top in the middle,en face,43.0,2.0,2.0
+2008.0,5.0,14.0,4.0,Poland,2389.0,blouses,B16,brown,bottom left,profile,43.0,2.0,3.0
+2008.0,7.0,26.0,9.0,Poland,2319.0,sale,P20,green,top in the middle,en face,38.0,1.0,1.0
+2008.0,5.0,7.0,10.0,Poland,21070.0,trousers,A7,brown,bottom left,profile,38.0,2.0,2.0
+2008.0,4.0,4.0,13.0,Poland,1789.0,trousers,A2,white,top in the middle,en face,38.0,2.0,2.0
+2008.0,6.0,2.0,8.0,Poland,14571.0,skirts,B3,green,top right,en face,28.0,1.0,2.0
+2008.0,4.0,9.0,1.0,Poland,20857.0,skirts,P36,gray,bottom right,profile,28.0,1.0,2.0
+2008.0,4.0,12.0,5.0,Poland,611.0,blouses,C9,black,top left,profile,57.0,1.0,4.0
+2008.0,7.0,28.0,5.0,Poland,2300.0,blouses,C23,blue,top left,profile,48.0,2.0,2.0
+2008.0,4.0,1.0,1.0,Poland,14250.0,trousers,A11,black,bottom left,en face,38.0,2.0,3.0
+2008.0,4.0,4.0,10.0,Poland,15276.0,skirts,B12,white,top in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,8.0,1.0,Poland,10771.0,blouses,C4,beige,top right,profile,38.0,1.0,1.0
+2008.0,6.0,16.0,16.0,Poland,2310.0,sale,P1,blue,top left,en face,62.0,1.0,1.0
+2008.0,5.0,21.0,7.0,Poland,7241.0,sale,P50,blue,top in the middle,en face,62.0,1.0,3.0
+2008.0,6.0,9.0,12.0,Poland,7392.0,blouses,C14,red,top in the middle,en face,38.0,1.0,1.0
+2008.0,6.0,27.0,17.0,Poland,14243.0,sale,P14,white,top left,en face,28.0,2.0,1.0
+2008.0,5.0,13.0,7.0,Poland,13774.0,blouses,C17,white,top left,en face,28.0,2.0,1.0
+2008.0,5.0,4.0,8.0,Poland,17915.0,sale,P18,of many colors,top in the middle,profile,38.0,1.0,1.0
+2008.0,4.0,4.0,4.0,Poland,19527.0,sale,P16,brown,top right,en face,38.0,1.0,4.0
+2008.0,7.0,21.0,12.0,Poland,1078.0,sale,P4,brown,top left,en face,62.0,2.0,1.0
+2008.0,5.0,26.0,10.0,Poland,11062.0,blouses,C21,violet,top in the middle,en face,43.0,1.0,3.0
+2008.0,7.0,28.0,6.0,Poland,15936.0,trousers,A15,red,top left,en face,28.0,1.0,1.0
+2008.0,7.0,2.0,1.0,*.net,13241.0,blouses,C36,blue,top right,en face,38.0,1.0,2.0
+2008.0,6.0,22.0,12.0,Poland,1389.0,skirts,B12,white,top in the middle,en face,48.0,1.0,1.0
+2008.0,7.0,1.0,1.0,Poland,5342.0,trousers,A17,blue,top in the middle,en face,43.0,1.0,1.0
+2008.0,6.0,23.0,1.0,Poland,13363.0,skirts,B13,brown,top left,en face,57.0,1.0,2.0
+2008.0,5.0,10.0,16.0,Poland,1809.0,skirts,B13,of many colors,bottom left,profile,43.0,2.0,1.0
+2008.0,6.0,22.0,3.0,Poland,13383.0,trousers,A4,black,top left,en face,43.0,1.0,1.0
+2008.0,4.0,15.0,4.0,Czech Republic,13990.0,trousers,B23,white,top left,en face,62.0,2.0,1.0
+2008.0,7.0,1.0,2.0,Czech Republic,8236.0,sale,P21,gray,top left,profile,33.0,2.0,2.0
+2008.0,5.0,8.0,1.0,Poland,15774.0,sale,P5,burgundy,bottom left,en face,33.0,1.0,1.0
+2008.0,7.0,3.0,7.0,Poland,2397.0,skirts,B12,violet,bottom in the middle,en face,38.0,1.0,4.0
+2008.0,4.0,8.0,10.0,Poland,13797.0,trousers,A11,blue,top left,en face,48.0,2.0,1.0
+2008.0,7.0,18.0,6.0,Poland,8776.0,trousers,A6,blue,bottom left,en face,38.0,2.0,1.0
+2008.0,5.0,29.0,1.0,Poland,5146.0,skirts,B2,gray,bottom left,en face,33.0,1.0,4.0
+2008.0,5.0,2.0,3.0,Poland,10686.0,skirts,B15,red,bottom in the middle,profile,48.0,2.0,3.0
+2008.0,5.0,14.0,1.0,Poland,16057.0,blouses,C9,of many colors,top left,en face,48.0,2.0,3.0
+2008.0,6.0,7.0,5.0,Poland,9336.0,skirts,B17,blue,top right,en face,43.0,1.0,1.0
+2008.0,7.0,4.0,4.0,Poland,15982.0,trousers,P62,blue,top in the middle,profile,43.0,1.0,1.0
+2008.0,8.0,9.0,15.0,Poland,2396.0,trousers,A3,black,top in the middle,en face,43.0,2.0,1.0
+2008.0,7.0,1.0,8.0,Poland,7333.0,sale,P60,white,top left,en face,50.0,2.0,1.0
+2008.0,6.0,11.0,4.0,Poland,7383.0,skirts,B12,of many colors,top in the middle,en face,23.0,1.0,1.0
+2008.0,6.0,2.0,13.0,Poland,10990.0,sale,P15,gray,bottom in the middle,profile,38.0,2.0,1.0
+2008.0,4.0,11.0,2.0,Poland,888.0,sale,P18,blue,bottom right,profile,38.0,1.0,1.0
+2008.0,4.0,27.0,1.0,Poland,16091.0,trousers,A2,black,top in the middle,en face,43.0,2.0,1.0
+2008.0,7.0,4.0,17.0,Czech Republic,6453.0,blouses,C42,red,top left,en face,33.0,1.0,1.0
+2008.0,7.0,1.0,1.0,Poland,934.0,sale,P43,brown,top in the middle,en face,28.0,1.0,1.0
+2008.0,6.0,25.0,2.0,Poland,14333.0,trousers,A15,blue,bottom right,profile,62.0,1.0,3.0
+2008.0,6.0,25.0,1.0,Poland,2396.0,sale,P4,of many colors,top left,profile,33.0,1.0,1.0
+2008.0,5.0,14.0,8.0,Poland,22124.0,trousers,A35,gray,bottom right,en face,38.0,2.0,2.0
+2008.0,5.0,12.0,4.0,Poland,16896.0,trousers,A1,brown,bottom in the middle,en face,38.0,2.0,2.0
+2008.0,5.0,7.0,8.0,Poland,16342.0,trousers,A4,blue,top right,en face,38.0,1.0,2.0
+2008.0,4.0,7.0,1.0,Poland,22498.0,sale,P29,white,top left,profile,48.0,1.0,3.0
+2008.0,5.0,14.0,3.0,Poland,6220.0,trousers,A15,blue,bottom right,profile,28.0,2.0,2.0
+2008.0,7.0,5.0,2.0,Poland,8571.0,blouses,C21,blue,top left,profile,38.0,1.0,2.0
+2008.0,5.0,25.0,7.0,Czech Republic,3265.0,skirts,B11,brown,top in the middle,en face,48.0,1.0,1.0
+2008.0,6.0,27.0,8.0,Poland,1487.0,trousers,B22,violet,top right,profile,62.0,1.0,1.0
+2008.0,5.0,2.0,22.0,Poland,16342.0,skirts,B15,beige,bottom right,en face,43.0,2.0,1.0
+2008.0,4.0,16.0,7.0,Poland,13776.0,blouses,C27,blue,bottom right,en face,62.0,1.0,1.0
+2008.0,7.0,3.0,5.0,Poland,4443.0,skirts,B17,brown,bottom in the middle,en face,57.0,2.0,1.0
+2008.0,4.0,13.0,7.0,Poland,8982.0,skirts,B29,brown,top right,en face,48.0,1.0,2.0
+2008.0,6.0,11.0,2.0,Poland,5995.0,trousers,A10,white,top left,profile,28.0,1.0,1.0
+2008.0,4.0,1.0,6.0,Czech Republic,6163.0,blouses,C41,blue,top in the middle,en face,52.0,1.0,2.0
+2008.0,4.0,17.0,12.0,Poland,16243.0,sale,P3,gray,bottom left,en face,38.0,2.0,4.0
+2008.0,5.0,27.0,10.0,Poland,15696.0,skirts,B40,gray,top in the middle,en face,38.0,1.0,2.0
+2008.0,7.0,25.0,3.0,Poland,17236.0,blouses,C37,gray,top left,en face,52.0,1.0,1.0
+2008.0,8.0,4.0,8.0,Poland,2243.0,sale,P15,red,bottom left,en face,62.0,1.0,1.0
+2008.0,5.0,17.0,12.0,Poland,796.0,trousers,A4,blue,top left,en face,52.0,1.0,1.0
+2008.0,7.0,14.0,6.0,Poland,3200.0,sale,P4,blue,top left,en face,43.0,1.0,1.0
+2008.0,4.0,8.0,3.0,Poland,18236.0,sale,P55,violet,top in the middle,en face,38.0,1.0,3.0
+2008.0,4.0,10.0,3.0,Poland,5960.0,sale,B12,violet,top in the middle,en face,28.0,2.0,1.0
+2008.0,6.0,12.0,3.0,Poland,13842.0,sale,P6,black,bottom right,en face,33.0,2.0,1.0
+2008.0,6.0,19.0,10.0,Belgium,14007.0,skirts,B14,red,bottom in the middle,en face,50.0,1.0,1.0
+2008.0,4.0,27.0,48.0,Poland,15700.0,sale,P1,blue,bottom right,profile,38.0,2.0,1.0
+2008.0,7.0,9.0,2.0,Poland,8589.0,skirts,B23,white,top right,en face,62.0,2.0,1.0
+2008.0,7.0,2.0,12.0,Czech Republic,19456.0,trousers,A4,blue,top right,profile,43.0,2.0,2.0
+2008.0,5.0,10.0,8.0,Poland,2375.0,blouses,C1,red,bottom right,en face,28.0,2.0,5.0
+2008.0,8.0,29.0,4.0,Poland,7990.0,sale,P6,beige,top left,en face,62.0,1.0,4.0
+2008.0,4.0,5.0,7.0,Poland,9342.0,blouses,C16,beige,top left,en face,49.0,1.0,1.0
+2008.0,6.0,24.0,3.0,Poland,10962.0,sale,P4,white,top left,profile,62.0,1.0,1.0
+2008.0,4.0,28.0,3.0,Poland,1404.0,sale,P2,red,bottom left,en face,33.0,2.0,3.0
+2008.0,5.0,27.0,10.0,Poland,14207.0,skirts,B10,white,top in the middle,en face,33.0,1.0,2.0
+2008.0,7.0,23.0,10.0,Poland,6129.0,sale,P40,red,bottom in the middle,en face,62.0,2.0,2.0
+2008.0,6.0,11.0,1.0,Czech Republic,2354.0,trousers,A1,black,top left,en face,62.0,2.0,3.0
+2008.0,4.0,1.0,8.0,Poland,10474.0,blouses,C17,of many colors,bottom in the middle,en face,38.0,1.0,4.0
+2008.0,4.0,19.0,1.0,Poland,18096.0,sale,P1,of many colors,bottom right,profile,28.0,2.0,2.0
+2008.0,4.0,8.0,1.0,Poland,634.0,sale,P2,beige,bottom in the middle,en face,38.0,2.0,2.0
+2008.0,9.0,13.0,1.0,Poland,17936.0,skirts,B6,black,top in the middle,en face,38.0,1.0,1.0
+2008.0,4.0,25.0,3.0,Poland,10597.0,trousers,A11,gray,top right,en face,48.0,1.0,1.0
+2008.0,4.0,2.0,3.0,Czech Republic,8696.0,skirts,B12,white,top left,en face,38.0,1.0,1.0
+2008.0,6.0,5.0,1.0,Poland,1786.0,trousers,A1,black,bottom in the middle,profile,57.0,2.0,1.0
+2008.0,5.0,7.0,12.0,Poland,1805.0,sale,P3,black,top left,profile,38.0,2.0,2.0
+2008.0,5.0,3.0,2.0,Poland,838.0,blouses,C21,pink,bottom left,en face,28.0,1.0,1.0
+2008.0,4.0,29.0,22.0,Poland,20353.0,sale,P6,red,bottom left,profile,38.0,2.0,1.0
+2008.0,5.0,20.0,8.0,Poland,1520.0,skirts,B17,white,top in the middle,en face,28.0,1.0,2.0
+2008.0,4.0,29.0,2.0,Poland,14443.0,trousers,A15,green,bottom in the middle,profile,43.0,1.0,2.0
+2008.0,5.0,2.0,57.0,Poland,456.0,skirts,B3,brown,top in the middle,en face,57.0,2.0,2.0
+2008.0,4.0,16.0,2.0,Poland,19510.0,blouses,C42,brown,top right,en face,38.0,1.0,1.0
+2008.0,5.0,28.0,7.0,Czech Republic,23163.0,sale,P14,black,bottom right,en face,52.0,2.0,2.0
+2008.0,4.0,14.0,1.0,Poland,16177.0,sale,P27,of many colors,bottom right,en face,62.0,2.0,1.0
+2008.0,7.0,30.0,4.0,*.net,1809.0,sale,P2,gray,bottom right,en face,38.0,2.0,4.0
+2008.0,5.0,8.0,3.0,Poland,2008.0,blouses,C59,black,top right,en face,38.0,1.0,2.0
+2008.0,4.0,12.0,1.0,Poland,2897.0,skirts,B40,white,top left,en face,57.0,2.0,5.0
+2008.0,5.0,18.0,19.0,Poland,23344.0,skirts,B26,gray,top left,en face,43.0,1.0,2.0
+2008.0,5.0,9.0,1.0,Poland,976.0,blouses,C40,of many colors,bottom left,en face,43.0,2.0,2.0
+2008.0,5.0,18.0,5.0,Poland,10592.0,trousers,A4,violet,top in the middle,en face,38.0,1.0,1.0
+2008.0,4.0,25.0,13.0,Poland,23776.0,sale,P1,brown,bottom right,en face,28.0,2.0,1.0
+2008.0,6.0,18.0,7.0,Poland,9963.0,blouses,C16,black,bottom in the middle,en face,43.0,1.0,2.0
+2008.0,4.0,28.0,1.0,Poland,12276.0,skirts,B2,gray,top left,en face,26.0,1.0,1.0
+2008.0,5.0,26.0,4.0,Poland,16000.0,trousers,A7,gray,top in the middle,en face,43.0,2.0,3.0
+2008.0,6.0,24.0,4.0,Poland,2098.0,sale,P48,brown,bottom in the middle,profile,57.0,1.0,1.0
+2008.0,6.0,15.0,7.0,Poland,1909.0,trousers,A9,white,bottom left,en face,62.0,2.0,3.0
+2008.0,7.0,13.0,10.0,Poland,13443.0,sale,P9,black,bottom left,profile,28.0,2.0,1.0
+2008.0,4.0,21.0,2.0,Poland,9592.0,skirts,B11,blue,top left,en face,33.0,2.0,1.0
+2008.0,5.0,2.0,1.0,Poland,13342.0,skirts,B13,black,bottom left,en face,38.0,1.0,1.0
+2008.0,5.0,1.0,6.0,Poland,7863.0,skirts,B25,brown,top in the middle,en face,43.0,1.0,2.0
+2008.0,7.0,6.0,4.0,*.net,14092.0,skirts,B25,brown,bottom left,en face,38.0,2.0,2.0
+2008.0,7.0,18.0,1.0,Poland,13782.0,sale,P3,black,top right,en face,38.0,1.0,1.0
+2008.0,5.0,29.0,33.0,Poland,4571.0,blouses,C56,black,top left,en face,43.0,2.0,1.0
+2008.0,5.0,25.0,5.0,Poland,1475.0,skirts,C51,blue,bottom right,en face,38.0,2.0,1.0
+2008.0,7.0,18.0,4.0,Poland,9669.0,skirts,B3,of many colors,bottom right,en face,38.0,2.0,1.0
+2008.0,8.0,6.0,1.0,Poland,2710.0,sale,P65,blue,bottom in the middle,en face,62.0,1.0,2.0
+2008.0,7.0,28.0,2.0,Poland,18930.0,skirts,B15,blue,top left,en face,38.0,1.0,1.0
+2008.0,4.0,11.0,1.0,Poland,917.0,blouses,C21,blue,top in the middle,en face,48.0,2.0,2.0
+2008.0,4.0,7.0,1.0,Poland,12059.0,sale,B19,of many colors,top right,en face,62.0,2.0,3.0
+2008.0,7.0,29.0,2.0,Poland,20700.0,skirts,B2,white,bottom left,en face,38.0,1.0,1.0
+2008.0,4.0,20.0,4.0,Poland,3276.0,sale,P48,blue,top in the middle,profile,33.0,1.0,3.0
+2008.0,7.0,8.0,14.0,Poland,2386.0,trousers,A2,black,bottom in the middle,profile,33.0,2.0,1.0
+2008.0,4.0,4.0,4.0,Poland,12052.0,sale,P1,brown,top in the middle,en face,38.0,2.0,1.0
+2008.0,4.0,12.0,16.0,Poland,14057.0,blouses,C17,black,bottom left,en face,38.0,2.0,1.0
+2008.0,4.0,1.0,4.0,Poland,7185.0,trousers,A2,gray,bottom in the middle,en face,52.0,2.0,1.0
+2008.0,6.0,9.0,1.0,*.com,10027.0,skirts,B21,gray,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,5.0,1.0,6.0,Ireland,12891.0,trousers,A1,blue,top in the middle,en face,33.0,2.0,1.0
+2008.0,5.0,9.0,6.0,Poland,15774.0,sale,P15,gray,top left,en face,38.0,1.0,1.0
+2008.0,4.0,9.0,3.0,Poland,6012.0,skirts,B4,black,top left,en face,43.0,2.0,1.0
+2008.0,4.0,1.0,11.0,Poland,20489.0,trousers,A4,blue,top in the middle,en face,43.0,2.0,1.0
+2008.0,4.0,17.0,2.0,Poland,1349.0,blouses,B15,white,top in the middle,en face,28.0,1.0,2.0
+2008.0,5.0,27.0,13.0,Poland,15242.0,skirts,B24,blue,top left,en face,57.0,1.0,3.0
+2008.0,4.0,15.0,3.0,Poland,9571.0,trousers,A3,white,top left,en face,62.0,2.0,1.0
+2008.0,5.0,18.0,10.0,Poland,1.0,trousers,A1,blue,bottom in the middle,en face,62.0,2.0,3.0
+2008.0,4.0,8.0,7.0,Poland,13174.0,trousers,A18,green,bottom in the middle,en face,57.0,1.0,1.0
+2008.0,4.0,21.0,2.0,Poland,141002.0,blouses,C31,brown,top in the middle,profile,43.0,1.0,1.0
+2008.0,4.0,3.0,1.0,Poland,6990.0,blouses,C21,white,bottom in the middle,profile,62.0,2.0,1.0
+2008.0,7.0,2.0,2.0,Poland,15489.0,skirts,B29,brown,top left,en face,38.0,2.0,4.0
+2008.0,5.0,1.0,6.0,Poland,17981.0,sale,P6,red,bottom left,profile,48.0,1.0,3.0
+2008.0,6.0,13.0,3.0,Czech Republic,10234.0,skirts,B1,white,bottom left,en face,67.0,1.0,1.0
+2008.0,5.0,6.0,8.0,Poland,21561.0,sale,P1,black,top in the middle,profile,48.0,2.0,1.0
+2008.0,7.0,7.0,43.0,Poland,23549.0,skirts,B15,gray,top right,profile,36.0,1.0,1.0
+2008.0,6.0,10.0,15.0,Poland,8092.0,trousers,A10,blue,top left,en face,28.0,1.0,2.0
+2008.0,5.0,9.0,8.0,Poland,1406.0,blouses,B17,white,top in the middle,en face,38.0,1.0,1.0
+2008.0,7.0,20.0,2.0,Poland,8775.0,blouses,C1,blue,top in the middle,en face,28.0,2.0,2.0
+2008.0,5.0,30.0,5.0,Poland,16250.0,trousers,A4,blue,bottom in the middle,en face,38.0,2.0,2.0
+2008.0,8.0,8.0,2.0,Poland,6797.0,trousers,A14,white,bottom in the middle,en face,28.0,2.0,1.0
+2008.0,4.0,4.0,2.0,Poland,10243.0,trousers,A38,black,top in the middle,en face,48.0,1.0,2.0
+2008.0,6.0,8.0,3.0,Poland,7896.0,blouses,C37,of many colors,bottom left,en face,38.0,1.0,1.0
+2008.0,4.0,26.0,4.0,Poland,17383.0,skirts,B10,of many colors,top left,en face,57.0,1.0,2.0
+2008.0,8.0,4.0,4.0,Poland,13185.0,blouses,C7,white,top in the middle,profile,43.0,2.0,3.0
+2008.0,8.0,17.0,1.0,Poland,6342.0,blouses,C21,gray,bottom in the middle,en face,33.0,2.0,1.0
+2008.0,7.0,8.0,11.0,Poland,14882.0,skirts,B11,green,top in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,24.0,1.0,Czech Republic,13095.0,sale,P36,beige,top left,en face,57.0,2.0,5.0
+2008.0,5.0,3.0,7.0,Poland,215.0,skirts,B13,pink,bottom in the middle,en face,43.0,2.0,1.0
+2008.0,8.0,25.0,3.0,Poland,1412.0,blouses,C19,white,bottom right,en face,48.0,2.0,1.0
+2008.0,5.0,5.0,13.0,Poland,11896.0,trousers,A2,violet,top left,en face,43.0,1.0,1.0
+2008.0,6.0,28.0,7.0,Poland,17363.0,skirts,B15,gray,top in the middle,en face,62.0,1.0,1.0
+2008.0,5.0,4.0,9.0,Poland,21636.0,skirts,B19,blue,top left,en face,28.0,1.0,2.0
+2008.0,5.0,1.0,4.0,Poland,7592.0,skirts,B1,of many colors,bottom left,en face,28.0,1.0,1.0
+2008.0,4.0,12.0,7.0,Poland,3100.0,skirts,B10,of many colors,bottom left,en face,38.0,1.0,2.0
+2008.0,5.0,23.0,6.0,Poland,20962.0,blouses,C9,black,bottom in the middle,en face,38.0,2.0,1.0
+2008.0,6.0,12.0,6.0,Poland,20265.0,blouses,C1,white,bottom left,en face,57.0,2.0,1.0
+2008.0,5.0,18.0,20.0,Poland,2919.0,sale,P2,violet,top in the middle,en face,57.0,1.0,1.0
+2008.0,4.0,27.0,3.0,Poland,9041.0,sale,P1,green,top right,en face,38.0,2.0,2.0
+2008.0,6.0,1.0,1.0,Poland,8372.0,sale,P16,gray,bottom right,en face,43.0,1.0,1.0
+2008.0,7.0,5.0,8.0,Poland,11776.0,trousers,A15,blue,top in the middle,en face,48.0,1.0,5.0
+2008.0,4.0,14.0,9.0,Poland,5764.0,skirts,B11,gray,bottom left,en face,28.0,1.0,1.0
+2008.0,4.0,11.0,1.0,Poland,609.0,sale,P16,gray,top in the middle,en face,33.0,1.0,2.0
+2008.0,5.0,26.0,3.0,*.net,7331.0,trousers,A8,white,top left,en face,33.0,1.0,1.0
+2008.0,5.0,8.0,10.0,Poland,2811.0,blouses,C7,gray,bottom right,en face,38.0,1.0,5.0
+2008.0,5.0,26.0,1.0,Czech Republic,1815.0,trousers,A15,navy blue,top left,en face,52.0,1.0,3.0
+2008.0,4.0,26.0,3.0,Poland,18838.0,skirts,P47,brown,top left,en face,57.0,1.0,1.0
+2008.0,5.0,13.0,2.0,Poland,2167.0,blouses,C11,green,top left,en face,28.0,1.0,2.0
+2008.0,5.0,26.0,5.0,Poland,14057.0,skirts,B1,of many colors,top left,en face,48.0,1.0,2.0
+2008.0,5.0,3.0,7.0,Poland,17696.0,trousers,A4,blue,top left,en face,43.0,1.0,1.0
+2008.0,5.0,19.0,14.0,Poland,5961.0,blouses,C40,brown,top in the middle,en face,57.0,1.0,1.0
+2008.0,7.0,8.0,1.0,Poland,12340.0,trousers,A4,green,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,4.0,27.0,2.0,Poland,11372.0,blouses,C40,red,bottom left,en face,52.0,2.0,1.0
+2008.0,7.0,5.0,15.0,Czech Republic,909.0,trousers,A2,black,bottom left,en face,62.0,2.0,1.0
+2008.0,7.0,7.0,3.0,Poland,7477.0,skirts,B15,black,bottom in the middle,en face,48.0,1.0,2.0
+2008.0,4.0,26.0,3.0,Poland,7443.0,sale,P17,white,top right,en face,52.0,2.0,1.0
+2008.0,8.0,14.0,2.0,Poland,12276.0,sale,P29,brown,top left,profile,43.0,1.0,3.0
+2008.0,6.0,28.0,1.0,Poland,20792.0,trousers,A6,blue,top left,en face,33.0,2.0,1.0
+2008.0,4.0,4.0,1.0,Czech Republic,15207.0,skirts,B12,black,bottom left,en face,38.0,2.0,1.0
+2008.0,4.0,23.0,5.0,Poland,147003.0,blouses,C19,black,bottom right,profile,28.0,1.0,4.0
+2008.0,5.0,16.0,43.0,Poland,1369.0,trousers,A1,gray,bottom in the middle,en face,62.0,2.0,2.0
+2008.0,4.0,1.0,36.0,Poland,8336.0,blouses,C55,blue,top left,en face,38.0,2.0,1.0
+2008.0,8.0,12.0,6.0,Czech Republic,18838.0,trousers,P61,blue,top left,en face,48.0,1.0,1.0
+2008.0,5.0,1.0,1.0,Poland,23396.0,skirts,B17,blue,bottom right,en face,48.0,1.0,1.0
+2008.0,5.0,21.0,6.0,Poland,6167.0,trousers,A1,red,top left,en face,48.0,1.0,1.0
+2008.0,4.0,28.0,12.0,Poland,8094.0,sale,P3,of many colors,bottom in the middle,en face,27.0,1.0,2.0
+2008.0,4.0,15.0,12.0,Poland,20896.0,blouses,C55,white,bottom right,en face,28.0,1.0,1.0
+2008.0,4.0,13.0,1.0,Poland,10648.0,blouses,P29,black,top in the middle,en face,38.0,2.0,4.0
+2008.0,8.0,21.0,9.0,Poland,644.0,sale,P2,gray,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,7.0,20.0,5.0,Poland,4115.0,skirts,B13,black,bottom right,profile,50.0,2.0,3.0
+2008.0,4.0,15.0,7.0,Poland,18057.0,sale,P11,of many colors,top in the middle,profile,55.0,1.0,2.0
+2008.0,4.0,4.0,1.0,Poland,2919.0,trousers,A6,white,top left,en face,48.0,2.0,2.0
+2008.0,4.0,14.0,2.0,Poland,4242.0,skirts,B7,navy blue,top left,en face,33.0,1.0,4.0
+2008.0,5.0,11.0,6.0,Poland,1411.0,sale,P67,black,top right,en face,43.0,1.0,1.0
+2008.0,6.0,16.0,6.0,Ireland,3817.0,blouses,C17,brown,top left,profile,38.0,1.0,3.0
+2008.0,6.0,2.0,9.0,Poland,9472.0,skirts,B26,gray,bottom left,en face,38.0,1.0,1.0
+2008.0,8.0,21.0,4.0,Poland,439.0,blouses,C40,green,top right,en face,38.0,2.0,1.0
+2008.0,4.0,23.0,2.0,Poland,8222.0,skirts,B4,black,top left,profile,67.0,2.0,1.0
+2008.0,7.0,11.0,23.0,Poland,16372.0,skirts,B3,gray,top in the middle,en face,72.0,1.0,1.0
+2008.0,4.0,1.0,5.0,*.net,18122.0,sale,P1,of many colors,bottom left,en face,28.0,2.0,1.0
+2008.0,5.0,6.0,3.0,Poland,16430.0,skirts,B4,brown,bottom right,en face,38.0,1.0,2.0
+2008.0,4.0,29.0,1.0,Poland,13254.0,blouses,C3,gray,bottom in the middle,en face,28.0,1.0,3.0
+2008.0,7.0,3.0,1.0,Poland,10335.0,blouses,C42,blue,top right,en face,33.0,2.0,1.0
+2008.0,5.0,27.0,1.0,Poland,7383.0,sale,P13,of many colors,top right,en face,33.0,1.0,2.0
+2008.0,6.0,1.0,8.0,Poland,5772.0,skirts,B16,white,bottom in the middle,en face,38.0,1.0,3.0
+2008.0,5.0,15.0,1.0,Poland,16383.0,trousers,A8,blue,bottom in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,10.0,2.0,Poland,17363.0,sale,P2,blue,top in the middle,profile,57.0,1.0,2.0
+2008.0,6.0,8.0,1.0,Poland,18336.0,sale,P9,blue,bottom left,profile,43.0,1.0,1.0
+2008.0,6.0,8.0,3.0,Poland,13007.0,blouses,C9,of many colors,top in the middle,en face,28.0,1.0,1.0
+2008.0,4.0,18.0,1.0,Poland,4174.0,sale,P29,blue,bottom left,profile,38.0,2.0,1.0
+2008.0,7.0,15.0,17.0,Poland,19099.0,sale,P67,blue,bottom right,en face,28.0,2.0,2.0
+2008.0,6.0,8.0,7.0,Poland,13372.0,blouses,C21,violet,top in the middle,en face,28.0,1.0,1.0
+2008.0,5.0,22.0,12.0,Poland,12453.0,blouses,P16,black,top right,en face,48.0,2.0,1.0
+2008.0,7.0,14.0,2.0,Poland,157002.0,trousers,A31,black,bottom left,en face,57.0,2.0,1.0
+2008.0,6.0,12.0,2.0,Poland,19031.0,skirts,B2,black,top in the middle,en face,28.0,1.0,2.0
+2008.0,4.0,24.0,24.0,Poland,2398.0,sale,P18,gray,top in the middle,en face,38.0,2.0,2.0
+2008.0,4.0,4.0,4.0,Poland,5489.0,skirts,B13,blue,bottom in the middle,en face,57.0,1.0,3.0
+2008.0,4.0,9.0,3.0,Poland,1279.0,sale,P16,blue,top left,en face,48.0,1.0,2.0
+2008.0,8.0,16.0,1.0,Poland,19160.0,sale,P3,white,top in the middle,en face,28.0,2.0,1.0
+2008.0,5.0,26.0,3.0,United Kingdom,13735.0,blouses,C9,of many colors,bottom left,profile,48.0,2.0,3.0
+2008.0,6.0,4.0,1.0,Poland,17333.0,trousers,A11,black,top in the middle,en face,62.0,1.0,3.0
+2008.0,6.0,9.0,1.0,Czech Republic,8342.0,blouses,C3,blue,top right,en face,52.0,1.0,1.0
+2008.0,6.0,23.0,10.0,Poland,9797.0,skirts,B3,blue,top left,en face,62.0,2.0,1.0
+2008.0,4.0,21.0,11.0,Poland,15982.0,skirts,B29,white,bottom in the middle,en face,43.0,2.0,2.0
+2008.0,4.0,31.0,6.0,Poland,12686.0,trousers,A5,blue,top right,en face,38.0,1.0,1.0
+2008.0,5.0,23.0,4.0,Poland,17882.0,sale,P3,black,top in the middle,en face,48.0,1.0,3.0
+2008.0,7.0,9.0,1.0,Poland,459.0,skirts,B15,blue,top left,profile,33.0,1.0,1.0
+2008.0,7.0,21.0,20.0,Poland,13953.0,blouses,C37,beige,bottom left,en face,38.0,2.0,1.0
+2008.0,5.0,8.0,2.0,Poland,43.0,sale,P2,white,top right,en face,33.0,2.0,1.0
+2008.0,6.0,1.0,33.0,Poland,1686.0,sale,P1,green,top in the middle,en face,62.0,2.0,1.0
+2008.0,4.0,17.0,2.0,Poland,16094.0,trousers,B20,red,bottom in the middle,en face,43.0,1.0,2.0
+2008.0,4.0,3.0,3.0,Poland,1389.0,blouses,C40,blue,top right,en face,48.0,1.0,3.0
+2008.0,5.0,26.0,1.0,Poland,13236.0,trousers,A9,of many colors,bottom right,en face,33.0,2.0,1.0
+2008.0,5.0,1.0,6.0,Poland,2619.0,trousers,A4,white,top in the middle,en face,43.0,2.0,1.0
+2008.0,4.0,7.0,1.0,Poland,2365.0,trousers,A1,white,bottom right,en face,33.0,1.0,2.0
+2008.0,7.0,12.0,1.0,Poland,12336.0,blouses,C42,red,top left,en face,33.0,1.0,1.0
+2008.0,6.0,17.0,2.0,Poland,10336.0,trousers,A15,brown,top in the middle,en face,33.0,1.0,1.0
+2008.0,5.0,11.0,1.0,Poland,13170.0,trousers,A10,of many colors,bottom right,en face,38.0,2.0,1.0
+2008.0,7.0,22.0,2.0,Poland,4375.0,sale,P15,white,top in the middle,profile,48.0,2.0,1.0
+2008.0,6.0,10.0,15.0,Poland,18107.0,blouses,C16,brown,bottom in the middle,en face,43.0,2.0,2.0
+2008.0,7.0,20.0,4.0,Czech Republic,2515.0,sale,P42,white,bottom left,en face,43.0,1.0,3.0
+2008.0,5.0,10.0,2.0,Poland,889.0,sale,P2,blue,top in the middle,en face,38.0,1.0,1.0
+2008.0,4.0,25.0,2.0,Czech Republic,10353.0,skirts,B59,white,top in the middle,en face,48.0,1.0,3.0
+2008.0,4.0,13.0,7.0,Poland,23519.0,sale,P14,brown,bottom in the middle,en face,43.0,1.0,3.0
+2008.0,6.0,24.0,2.0,Poland,5797.0,sale,P1,white,top left,en face,57.0,2.0,1.0
+2008.0,5.0,4.0,3.0,Poland,15333.0,trousers,A6,brown,top in the middle,en face,28.0,2.0,1.0
+2008.0,4.0,5.0,3.0,Poland,19198.0,sale,P4,beige,top in the middle,en face,28.0,2.0,2.0
+2008.0,4.0,21.0,2.0,Poland,15896.0,blouses,C55,of many colors,top left,en face,38.0,2.0,1.0
+2008.0,4.0,5.0,2.0,Poland,788.0,sale,C41,of many colors,top left,profile,52.0,1.0,4.0
+2008.0,4.0,7.0,3.0,Poland,5472.0,sale,P1,red,top right,en face,33.0,1.0,2.0
+2008.0,6.0,1.0,1.0,Poland,1222.0,skirts,B11,brown,top in the middle,en face,28.0,2.0,3.0
+2008.0,7.0,12.0,10.0,Poland,14453.0,blouses,C30,of many colors,top left,en face,33.0,2.0,2.0
+2008.0,6.0,8.0,3.0,Poland,16041.0,blouses,C45,black,bottom in the middle,en face,28.0,2.0,1.0
+2008.0,5.0,15.0,5.0,Poland,1611.0,blouses,C20,gray,top in the middle,profile,38.0,1.0,1.0
+2008.0,7.0,12.0,1.0,Poland,3162.0,skirts,B27,blue,top in the middle,en face,57.0,2.0,1.0
+2008.0,4.0,19.0,10.0,Poland,20236.0,sale,P1,white,bottom right,en face,38.0,1.0,1.0
+2008.0,5.0,11.0,3.0,Poland,14592.0,sale,P3,blue,top left,en face,38.0,2.0,1.0
+2008.0,9.0,25.0,8.0,Czech Republic,20962.0,trousers,A12,burgundy,bottom left,profile,43.0,1.0,1.0
+2008.0,6.0,2.0,7.0,Poland,16097.0,skirts,B1,white,bottom right,en face,38.0,1.0,1.0
+2008.0,4.0,9.0,1.0,Poland,18177.0,trousers,A31,blue,top in the middle,en face,48.0,1.0,1.0
+2008.0,7.0,17.0,1.0,Poland,16091.0,sale,P19,white,bottom in the middle,profile,48.0,2.0,2.0
+2008.0,6.0,6.0,1.0,Poland,13342.0,blouses,C41,green,bottom left,en face,48.0,2.0,1.0
+2008.0,5.0,12.0,4.0,Poland,16100.0,sale,P21,brown,top in the middle,profile,38.0,1.0,1.0
+2008.0,6.0,10.0,4.0,Czech Republic,6276.0,trousers,A3,blue,top in the middle,en face,38.0,1.0,1.0
+2008.0,8.0,10.0,2.0,Poland,2513.0,sale,P2,of many colors,bottom left,en face,72.0,1.0,1.0
+2008.0,4.0,9.0,16.0,Poland,669.0,trousers,A15,black,top right,profile,33.0,1.0,3.0
+2008.0,5.0,18.0,5.0,Poland,20477.0,sale,P49,blue,top left,en face,38.0,2.0,2.0
+2008.0,6.0,6.0,18.0,Poland,20578.0,sale,P6,black,top left,profile,35.0,1.0,1.0
+2008.0,6.0,23.0,3.0,Poland,8996.0,blouses,C33,blue,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,4.0,17.0,1.0,Czech Republic,8342.0,sale,P43,of many colors,bottom left,profile,43.0,1.0,1.0
+2008.0,7.0,10.0,4.0,Poland,20342.0,sale,P4,black,top in the middle,en face,43.0,2.0,1.0
+2008.0,7.0,26.0,14.0,Poland,11043.0,skirts,B11,red,bottom right,en face,28.0,2.0,1.0
+2008.0,5.0,22.0,2.0,Poland,8784.0,trousers,A2,red,top in the middle,en face,28.0,1.0,3.0
+2008.0,6.0,7.0,4.0,Poland,2744.0,skirts,B16,blue,bottom in the middle,profile,57.0,1.0,1.0
+2008.0,8.0,28.0,5.0,Poland,23107.0,blouses,C19,of many colors,bottom right,en face,38.0,2.0,1.0
+2008.0,4.0,29.0,4.0,Poland,18100.0,sale,A12,green,bottom in the middle,en face,33.0,1.0,4.0
+2008.0,7.0,16.0,15.0,Poland,1796.0,blouses,C36,red,bottom in the middle,en face,33.0,2.0,2.0
+2008.0,7.0,19.0,9.0,Poland,5166.0,skirts,B21,black,top in the middle,profile,28.0,2.0,3.0
+2008.0,5.0,25.0,5.0,Poland,1410.0,skirts,B21,black,top left,profile,28.0,1.0,1.0
+2008.0,7.0,29.0,4.0,Poland,14385.0,sale,P21,navy blue,bottom in the middle,en face,43.0,2.0,3.0
+2008.0,6.0,31.0,2.0,Czech Republic,2586.0,skirts,B15,black,bottom in the middle,en face,57.0,2.0,1.0
+2008.0,7.0,3.0,1.0,Poland,4339.0,blouses,C30,of many colors,top in the middle,en face,43.0,1.0,1.0
+2008.0,5.0,1.0,1.0,Poland,14336.0,blouses,C36,pink,top in the middle,profile,43.0,1.0,3.0
+2008.0,6.0,1.0,7.0,Poland,13372.0,trousers,A23,gray,bottom left,en face,38.0,1.0,2.0
+2008.0,7.0,17.0,5.0,Poland,7990.0,trousers,A26,green,top in the middle,en face,33.0,1.0,1.0
+2008.0,5.0,27.0,17.0,Poland,23349.0,trousers,A3,blue,bottom left,en face,43.0,1.0,1.0
+2008.0,6.0,11.0,7.0,Poland,9837.0,sale,P26,gray,bottom right,en face,38.0,1.0,3.0
+2008.0,7.0,1.0,1.0,Poland,13896.0,sale,P22,blue,top left,en face,33.0,1.0,1.0
+2008.0,4.0,8.0,15.0,Poland,10841.0,sale,P65,gray,top in the middle,en face,43.0,2.0,1.0
+2008.0,7.0,21.0,2.0,Poland,5996.0,sale,P15,blue,top right,en face,33.0,1.0,4.0
+2008.0,4.0,17.0,8.0,Poland,1049.0,trousers,A3,blue,bottom right,en face,57.0,2.0,1.0
+2008.0,4.0,3.0,1.0,Poland,10363.0,skirts,skirts,blue,bottom in the middle,en face,62.0,2.0,1.0
+2008.0,5.0,3.0,1.0,Poland,5571.0,trousers,A15,of many colors,top left,profile,43.0,2.0,2.0
+2008.0,6.0,12.0,7.0,Poland,15913.0,skirts,A4,gray,top left,en face,38.0,1.0,1.0
+2008.0,7.0,5.0,3.0,Poland,9571.0,sale,P65,brown,top in the middle,profile,62.0,2.0,1.0
+2008.0,5.0,13.0,1.0,Poland,15909.0,skirts,B10,blue,top right,en face,38.0,2.0,1.0
+2008.0,4.0,3.0,2.0,Poland,7492.0,trousers,A8,blue,bottom right,en face,43.0,1.0,1.0
+2008.0,4.0,5.0,2.0,Poland,13477.0,blouses,C40,black,top in the middle,profile,48.0,1.0,1.0
+2008.0,6.0,1.0,1.0,Poland,23962.0,skirts,B10,black,top right,en face,57.0,2.0,1.0
+2008.0,4.0,3.0,5.0,Poland,12353.0,skirts,B15,of many colors,bottom right,en face,33.0,2.0,5.0
+2008.0,4.0,30.0,3.0,Poland,11840.0,skirts,B15,black,top left,profile,38.0,1.0,1.0
+2008.0,6.0,5.0,1.0,Poland,4344.0,blouses,C7,blue,top left,profile,62.0,1.0,1.0
+2008.0,4.0,22.0,2.0,Poland,7362.0,blouses,C21,brown,top in the middle,en face,33.0,1.0,1.0
+2008.0,4.0,8.0,3.0,Poland,896.0,sale,B13,blue,bottom left,en face,28.0,2.0,2.0
+2008.0,4.0,3.0,1.0,Poland,7862.0,blouses,C2,black,top in the middle,en face,28.0,1.0,4.0
+2008.0,5.0,20.0,2.0,Poland,9372.0,blouses,C14,gray,bottom in the middle,profile,43.0,1.0,1.0
+2008.0,5.0,21.0,16.0,Poland,1544.0,trousers,A11,black,top right,en face,67.0,1.0,1.0
+2008.0,4.0,11.0,3.0,Poland,4265.0,sale,P9,white,bottom in the middle,en face,57.0,1.0,1.0
+2008.0,5.0,26.0,14.0,Poland,18571.0,skirts,B4,brown,top left,en face,38.0,2.0,3.0
+2008.0,7.0,3.0,1.0,Poland,13207.0,skirts,B30,blue,top in the middle,profile,43.0,1.0,4.0
+2008.0,5.0,23.0,1.0,Lithuania,16696.0,sale,P26,red,top in the middle,en face,38.0,2.0,1.0
+2008.0,7.0,21.0,1.0,Poland,12336.0,sale,A15,black,bottom left,en face,43.0,2.0,2.0
+2008.0,7.0,17.0,6.0,Poland,976.0,blouses,C17,black,top left,en face,38.0,1.0,2.0
+2008.0,4.0,1.0,10.0,Poland,15696.0,sale,P18,gray,top right,en face,43.0,1.0,1.0
+2008.0,5.0,7.0,4.0,Poland,6776.0,trousers,A5,blue,top left,en face,28.0,1.0,3.0
+2008.0,4.0,29.0,33.0,Poland,8174.0,skirts,B4,white,top in the middle,profile,33.0,1.0,1.0
+2008.0,7.0,30.0,23.0,Poland,13696.0,blouses,C40,blue,top in the middle,en face,57.0,2.0,3.0
+2008.0,8.0,5.0,10.0,Poland,16385.0,blouses,C4,brown,bottom right,en face,38.0,1.0,1.0
+2008.0,7.0,20.0,2.0,Czech Republic,15776.0,trousers,A1,gray,top in the middle,en face,38.0,2.0,3.0
+2008.0,4.0,8.0,4.0,Czech Republic,1798.0,trousers,A11,of many colors,top in the middle,en face,62.0,1.0,2.0
+2008.0,4.0,16.0,3.0,Poland,17108.0,blouses,C2,white,top in the middle,en face,48.0,1.0,2.0
+2008.0,4.0,12.0,1.0,Poland,17370.0,skirts,C50,blue,bottom left,en face,28.0,1.0,2.0
+2008.0,5.0,8.0,15.0,Poland,6075.0,skirts,B9,black,bottom in the middle,en face,43.0,1.0,4.0
+2008.0,4.0,11.0,6.0,Poland,1509.0,blouses,C6,black,top left,en face,28.0,1.0,1.0
+2008.0,5.0,12.0,1.0,Poland,13592.0,skirts,B19,blue,bottom in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,12.0,2.0,Poland,10835.0,sale,C40,blue,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,7.0,2.0,10.0,Poland,5265.0,blouses,C1,of many colors,bottom right,en face,38.0,1.0,1.0
+2008.0,4.0,16.0,1.0,Poland,22714.0,sale,P2,blue,top in the middle,en face,43.0,2.0,1.0
+2008.0,5.0,14.0,3.0,Poland,12893.0,skirts,B13,green,top right,en face,38.0,2.0,2.0
+2008.0,6.0,17.0,10.0,Poland,14095.0,sale,P17,brown,top in the middle,en face,48.0,2.0,2.0
+2008.0,7.0,19.0,2.0,Poland,23303.0,trousers,A4,blue,top in the middle,en face,28.0,2.0,2.0
+2008.0,4.0,8.0,6.0,Poland,23333.0,sale,P35,white,top right,en face,33.0,1.0,2.0
+2008.0,6.0,6.0,1.0,Poland,10336.0,trousers,A17,black,bottom left,en face,28.0,2.0,1.0
+2008.0,4.0,7.0,1.0,Czech Republic,16185.0,skirts,B26,white,bottom right,en face,48.0,2.0,1.0
+2008.0,4.0,21.0,3.0,Lithuania,13896.0,skirts,B21,brown,bottom left,en face,38.0,1.0,2.0
+2008.0,5.0,8.0,11.0,Poland,9092.0,blouses,C40,of many colors,top left,en face,38.0,2.0,2.0
+2008.0,6.0,18.0,2.0,Poland,7383.0,trousers,A2,blue,top right,en face,48.0,1.0,1.0
+2008.0,4.0,19.0,5.0,*.net,15893.0,skirts,B30,blue,top right,en face,43.0,2.0,3.0
+2008.0,5.0,9.0,7.0,Poland,13776.0,blouses,C9,brown,top left,en face,28.0,1.0,1.0
+2008.0,4.0,8.0,8.0,Poland,2134.0,skirts,B11,blue,top left,en face,33.0,2.0,2.0
+2008.0,7.0,1.0,5.0,Poland,15862.0,blouses,C28,black,bottom right,en face,38.0,2.0,1.0
+2008.0,7.0,16.0,5.0,Poland,816.0,sale,P20,pink,top in the middle,en face,28.0,1.0,1.0
+2008.0,5.0,25.0,2.0,Poland,13489.0,sale,P20,beige,top left,en face,43.0,2.0,2.0
+2008.0,5.0,11.0,3.0,Poland,13776.0,skirts,B24,white,bottom in the middle,en face,33.0,2.0,3.0
+2008.0,7.0,16.0,1.0,Poland,17384.0,skirts,B19,brown,bottom left,en face,62.0,2.0,2.0
+2008.0,6.0,17.0,2.0,Poland,3222.0,sale,P17,black,top left,en face,38.0,1.0,2.0
+2008.0,5.0,9.0,5.0,Poland,14000.0,sale,P49,gray,bottom right,en face,57.0,1.0,3.0
+2008.0,5.0,3.0,4.0,*.net,15985.0,skirts,B1,of many colors,top left,en face,43.0,1.0,3.0
+2008.0,5.0,7.0,17.0,Poland,8333.0,skirts,B13,red,bottom right,en face,28.0,1.0,1.0
+2008.0,6.0,4.0,1.0,Poland,16108.0,skirts,B17,pink,top left,en face,52.0,1.0,3.0
+2008.0,4.0,16.0,1.0,Poland,18185.0,skirts,B10,of many colors,bottom in the middle,en face,48.0,1.0,1.0
+2008.0,5.0,24.0,10.0,Poland,17051.0,skirts,B15,brown,top right,en face,28.0,1.0,4.0
+2008.0,4.0,17.0,2.0,Czech Republic,2322.0,blouses,C14,black,top left,en face,33.0,2.0,1.0
+2008.0,7.0,28.0,5.0,Poland,5472.0,skirts,B31,black,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,6.0,10.0,6.0,Poland,15395.0,sale,P21,blue,top left,en face,28.0,1.0,1.0
+2008.0,5.0,5.0,3.0,Poland,18163.0,blouses,C26,black,bottom in the middle,en face,43.0,2.0,3.0
+2008.0,5.0,10.0,1.0,Poland,6235.0,trousers,A11,blue,bottom left,en face,57.0,2.0,3.0
+2008.0,4.0,3.0,13.0,*.net,6363.0,sale,P8,white,bottom left,en face,48.0,1.0,4.0
+2008.0,4.0,28.0,1.0,Poland,889.0,blouses,C40,gray,top in the middle,profile,43.0,2.0,4.0
+2008.0,4.0,10.0,3.0,Poland,16453.0,sale,P2,blue,bottom in the middle,profile,38.0,2.0,1.0
+2008.0,4.0,7.0,2.0,Poland,11210.0,sale,P7,black,top left,profile,62.0,1.0,2.0
+2008.0,4.0,25.0,1.0,Poland,2190.0,skirts,B22,gray,top left,en face,28.0,2.0,1.0
+2008.0,6.0,6.0,4.0,Poland,16896.0,sale,P16,black,bottom right,en face,43.0,1.0,1.0
+2008.0,4.0,12.0,2.0,Poland,6665.0,blouses,C4,white,top right,en face,43.0,2.0,1.0
+2008.0,4.0,18.0,4.0,Poland,506.0,blouses,C50,gray,top in the middle,en face,43.0,2.0,4.0
+2008.0,4.0,18.0,8.0,Poland,11700.0,trousers,A31,black,top left,en face,57.0,2.0,1.0
+2008.0,4.0,1.0,6.0,Poland,15333.0,sale,C57,of many colors,top right,en face,38.0,2.0,3.0
+2008.0,4.0,6.0,3.0,Poland,9882.0,sale,P4,blue,top right,en face,28.0,1.0,4.0
+2008.0,8.0,12.0,3.0,Poland,1412.0,skirts,B15,green,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,6.0,17.0,23.0,Poland,909.0,sale,P6,black,top left,en face,38.0,1.0,4.0
+2008.0,4.0,8.0,57.0,Poland,1512.0,trousers,A11,blue,bottom right,profile,28.0,2.0,1.0
+2008.0,6.0,21.0,12.0,Poland,6458.0,sale,P17,white,bottom left,en face,43.0,2.0,1.0
+2008.0,7.0,25.0,2.0,Poland,22731.0,trousers,C27,brown,bottom-left,en face,28.0,1.0,1.0
+2008.0,5.0,3.0,2.0,Poland,11948.0,sale,P60,white,bottom right,en face,43.0,2.0,1.0
+2008.0,7.0,11.0,2.0,Czech Republic,18141.0,trousers,A6,of many colors,top right,en face,38.0,1.0,1.0
+2008.0,5.0,6.0,6.0,Poland,15670.0,trousers,A1,blue,top right,en face,33.0,1.0,1.0
+2008.0,5.0,12.0,1.0,Poland,8335.0,trousers,A2,brown,top in the middle,en face,43.0,1.0,1.0
+2008.0,7.0,4.0,1.0,Poland,1610.0,blouses,C23,brown,bottom left,profile,28.0,2.0,1.0
+2008.0,5.0,5.0,8.0,Poland,22740.0,trousers,A1,blue,top left,en face,62.0,2.0,3.0
+2008.0,4.0,27.0,8.0,Poland,12236.0,skirts,B3,burgundy,top left,en face,28.0,2.0,1.0
+2008.0,5.0,8.0,1.0,Poland,12052.0,trousers,A8,blue,top left,profile,43.0,1.0,2.0
+2008.0,5.0,18.0,2.0,Poland,9222.0,skirts,B31,white,bottom left,en face,52.0,2.0,3.0
+2008.0,7.0,26.0,1.0,Poland,15700.0,trousers,P6,blue,top in the middle,en face,43.0,2.0,1.0
+2008.0,4.0,12.0,2.0,Poland,2896.0,skirts,P13,brown,bottom in the middle,profile,33.0,2.0,2.0
+2008.0,6.0,7.0,2.0,Poland,15287.0,trousers,A30,red,top in the middle,en face,48.0,1.0,1.0
+2008.0,5.0,11.0,2.0,Poland,16235.0,trousers,A5,brown,bottom in the middle,en face,33.0,2.0,3.0
+2008.0,6.0,16.0,1.0,Poland,5861.0,trousers,A4,white,top right,en face,38.0,1.0,1.0
+2008.0,5.0,16.0,8.0,Poland,17201.0,sale,P70,gray,top in the middle,en face,33.0,2.0,1.0
+2008.0,6.0,8.0,8.0,Poland,13333.0,trousers,A13,of many colors,bottom left,en face,65.0,1.0,3.0
+2008.0,6.0,8.0,13.0,Poland,1037.0,sale,P62,olive,top left,en face,28.0,1.0,4.0
+2008.0,7.0,11.0,9.0,Poland,15637.0,skirts,B24,brown,top in the middle,en face,38.0,2.0,1.0
+2008.0,7.0,20.0,2.0,Czech Republic,11213.0,trousers,A7,of many colors,top in the middle,en face,28.0,1.0,3.0
+2008.0,4.0,10.0,4.0,*.net,17400.0,blouses,C36,of many colors,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,4.0,29.0,1.0,Poland,10130.0,skirts,B6,brown,bottom left,en face,43.0,1.0,1.0
+2008.0,7.0,6.0,43.0,Poland,1130.0,trousers,A1,black,top in the middle,en face,52.0,1.0,1.0
+2008.0,7.0,9.0,50.0,Poland,9597.0,blouses,C51,black,top left,en face,43.0,1.0,1.0
+2008.0,5.0,4.0,1.0,Poland,11960.0,sale,P1,blue,top left,en face,38.0,2.0,1.0
+2008.0,7.0,16.0,6.0,Poland,22315.0,skirts,B13,black,top in the middle,en face,33.0,2.0,3.0
+2008.0,7.0,7.0,2.0,Poland,6774.0,sale,P3,brown,top in the middle,en face,62.0,1.0,1.0
+2008.0,4.0,2.0,7.0,Poland,832.0,sale,C16,white,bottom right,profile,28.0,2.0,3.0
+2008.0,5.0,30.0,8.0,Poland,19830.0,blouses,C21,blue,top right,en face,28.0,1.0,1.0
+2008.0,7.0,9.0,1.0,Poland,17798.0,skirts,B15,of many colors,top left,en face,38.0,1.0,1.0
+2008.0,4.0,3.0,8.0,Poland,6185.0,sale,P7,blue,top left,en face,57.0,2.0,1.0
+2008.0,4.0,1.0,1.0,Poland,14363.0,sale,P2,blue,top left,en face,43.0,2.0,2.0
+2008.0,5.0,12.0,1.0,Poland,17122.0,blouses,C9,white,top in the middle,en face,57.0,2.0,1.0
+2008.0,5.0,10.0,4.0,Czech Republic,10372.0,trousers,A56,brown,top left,en face,28.0,1.0,2.0
+2008.0,7.0,3.0,13.0,Poland,5996.0,trousers,A15,blue,bottom in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,27.0,4.0,Poland,18340.0,blouses,C19,black,top in the middle,profile,33.0,1.0,1.0
+2008.0,4.0,4.0,8.0,Poland,11276.0,skirts,B1,black,top in the middle,en face,48.0,1.0,1.0
+2008.0,5.0,15.0,3.0,Poland,3696.0,sale,P67,brown,top left,en face,28.0,1.0,2.0
+2008.0,6.0,21.0,1.0,Poland,8896.0,trousers,A15,gray,top right,en face,57.0,1.0,1.0
+2008.0,7.0,20.0,7.0,Poland,19108.0,trousers,A31,gray,top left,en face,52.0,2.0,2.0
+2008.0,8.0,27.0,2.0,Poland,20774.0,trousers,A19,blue,top left,en face,48.0,1.0,2.0
+2008.0,6.0,7.0,8.0,Poland,10774.0,trousers,A15,white,bottom in the middle,en face,43.0,1.0,2.0
+2008.0,5.0,8.0,2.0,Poland,908.0,sale,P8,gray,top in the middle,en face,38.0,2.0,1.0
+2008.0,7.0,21.0,3.0,Poland,23007.0,trousers,A7,of many colors,top left,en face,38.0,1.0,1.0
+2008.0,6.0,8.0,1.0,Poland,3254.0,skirts,B12,red,top right,en face,38.0,1.0,1.0
+2008.0,6.0,2.0,3.0,Poland,16453.0,sale,P3,white,top left,en face,38.0,1.0,2.0
+2008.0,4.0,11.0,1.0,Poland,4453.0,skirts,B18,of many colors,bottom right,en face,50.0,1.0,1.0
+2008.0,4.0,16.0,4.0,Poland,18062.0,sale,P15,of many colors,bottom in the middle,profile,43.0,2.0,3.0
+2008.0,6.0,15.0,10.0,Poland,13254.0,blouses,B12,white,top right,en face,62.0,1.0,2.0
+2008.0,48.0,17.0,1.0,Poland,3878.0,skirts,C16,gray,top right,en face,28.0,1.0,2.0
+2008.0,5.0,20.0,6.0,Poland,2673.0,trousers,A4,white,top in the middle,en face,62.0,1.0,2.0
+2008.0,4.0,26.0,1.0,Poland,9443.0,sale,P18,white,bottom in the middle,en face,38.0,1.0,3.0
+2008.0,5.0,26.0,48.0,Poland,16696.0,sale,P1,red,bottom in the middle,profile,28.0,2.0,1.0
+2008.0,4.0,13.0,1.0,Poland,4162.0,blouses,C29,gray,bottom in the middle,en face,43.0,2.0,4.0
+2008.0,6.0,28.0,5.0,Poland,16174.0,blouses,C9,black,bottom right,profile,38.0,2.0,1.0
+2008.0,7.0,8.0,2.0,Poland,20477.0,skirts,B15,red,top right,en face,43.0,2.0,3.0
+2008.0,7.0,30.0,3.0,Poland,23185.0,skirts,B13,black,top right,en face,23.0,1.0,1.0
+2008.0,4.0,10.0,1.0,Poland,1317.0,trousers,A5,brown,bottom in the middle,en face,57.0,1.0,1.0
+2008.0,4.0,22.0,2.0,Poland,13776.0,trousers,A1,blue,top left,en face,43.0,1.0,1.0
+2008.0,6.0,12.0,7.0,Poland,1220.0,blouses,C18,brown,top in the middle,en face,57.0,2.0,3.0
+2008.0,5.0,3.0,12.0,Poland,23166.0,skirts,B24,blue,bottom left,profile,57.0,1.0,1.0
+2008.0,6.0,11.0,2.0,Poland,7571.0,blouses,C3,of many colors,bottom right,en face,33.0,1.0,3.0
+2008.0,4.0,7.0,1.0,Poland,23349.0,sale,P13,blue,top in the middle,en face,43.0,2.0,2.0
+2008.0,6.0,7.0,9.0,Poland,1396.0,skirts,B17,blue,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,4.0,21.0,57.0,Poland,6383.0,trousers,A31,blue,top in the middle,en face,43.0,2.0,1.0
+2008.0,4.0,28.0,1.0,Poland,889.0,skirts,B17,blue,top left,en face,43.0,2.0,1.0
+2008.0,5.0,26.0,4.0,Poland,11346.0,sale,P4,brown,top in the middle,en face,62.0,1.0,1.0
+2008.0,4.0,26.0,2.0,Poland,13342.0,skirts,B24,black,top in the middle,en face,57.0,1.0,1.0
+2008.0,5.0,16.0,13.0,Poland,8159.0,blouses,C5,blue,bottom in the middle,en face,57.0,2.0,1.0
+2008.0,4.0,29.0,3.0,Poland,14774.0,trousers,A31,dark blue,top left,profile,62.0,1.0,2.0
+2008.0,7.0,14.0,2.0,Poland,11013.0,skirts,B2,blue,top left,en face,43.0,2.0,1.0
+2008.0,5.0,7.0,22.0,Poland,13962.0,trousers,A15,gray,top left,en face,33.0,2.0,2.0
+2008.0,5.0,4.0,5.0,Poland,3163.0,trousers,A25,black,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,6.0,5.0,2.0,Poland,10990.0,sale,P55,brown,top left,en face,38.0,2.0,2.0
+2008.0,7.0,21.0,3.0,Poland,3869.0,blouses,C25,gray,bottom right,en face,28.0,1.0,3.0
+2008.0,7.0,28.0,1.0,Poland,6592.0,trousers,A23,blue,top in the middle,en face,57.0,2.0,1.0
+2008.0,5.0,7.0,1.0,Poland,17242.0,skirts,B12,black,top in the middle,en face,28.0,1.0,3.0
+2008.0,7.0,6.0,3.0,Poland,11335.0,blouses,C10,blue,bottom in the middle,en face,43.0,2.0,4.0
+2008.0,5.0,21.0,1.0,Poland,102505.0,blouses,C6,blue,bottom in the middle,en face,57.0,1.0,1.0
+2008.0,5.0,10.0,2.0,Poland,18372.0,trousers,A9,gray,top in the middle,en face,28.0,2.0,1.0
+2008.0,5.0,8.0,13.0,Poland,12336.0,sale,P17,blue,bottom left,en face,67.0,2.0,1.0
+2008.0,4.0,12.0,6.0,Poland,1410.0,skirts,A15,black,bottom in the middle,en face,57.0,1.0,1.0
+2008.0,4.0,16.0,1.0,Poland,2318.0,sale,P14,blue,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,6.0,15.0,1.0,Poland,20771.0,sale,P2,brown,bottom left,en face,43.0,1.0,1.0
+2008.0,4.0,17.0,5.0,Poland,13235.0,sale,P48,blue,top left,en face,38.0,2.0,1.0
+2008.0,5.0,16.0,20.0,Poland,5996.0,skirts,B10,blue,top left,profile,28.0,1.0,2.0
+2008.0,4.0,22.0,5.0,Poland,11823.0,sale,P6,blue,top left,en face,38.0,1.0,2.0
+2008.0,4.0,6.0,10.0,Poland,1209.0,blouses,C26,white,top in the middle,en face,43.0,1.0,4.0
+2008.0,5.0,11.0,5.0,Poland,8990.0,sale,P6,gray,bottom in the middle,en face,28.0,1.0,4.0
+2008.0,4.0,14.0,7.0,Poland,4331.0,trousers,A1,blue,bottom right,en face,33.0,1.0,1.0
+2008.0,5.0,7.0,3.0,Czech Republic,15571.0,trousers,A5,beige,top left,en face,48.0,1.0,2.0
+2008.0,5.0,27.0,57.0,Lithuania,1610.0,sale,P1,white,top left,en face,57.0,2.0,1.0
+2008.0,4.0,23.0,1.0,Poland,12336.0,trousers,A17,black,top in the middle,en face,2.0,2.0,1.0
+2008.0,7.0,4.0,5.0,Poland,1379.0,sale,P4,gray,bottom in the middle,en face,43.0,2.0,1.0
+2008.0,5.0,12.0,3.0,Poland,1498.0,trousers,A5,brown,top left,en face,38.0,2.0,1.0
+2008.0,7.0,30.0,5.0,Poland,644.0,sale,P6,gray,top left,en face,38.0,1.0,1.0
+2008.0,7.0,4.0,13.0,Poland,1676.0,sale,P1,gray,bottom right,en face,67.0,2.0,1.0
+2008.0,6.0,13.0,11.0,Poland,13235.0,trousers,A10,white,top in the middle,en face,52.0,2.0,1.0
+2008.0,6.0,6.0,8.0,Poland,7265.0,sale,P70,white,top in the middle,profile,28.0,2.0,3.0
+2008.0,8.0,7.0,1.0,Poland,3815.0,sale,P2,violet,top in the middle,en face,38.0,2.0,2.0
+2008.0,5.0,24.0,15.0,Poland,2241.0,trousers,A4,red,bottom right,en face,38.0,1.0,3.0
+2008.0,8.0,16.0,8.0,Poland,22438.0,sale,P48,gray,top left,profile,27.0,2.0,3.0
+2008.0,4.0,7.0,28.0,Poland,3875.0,skirts,B36,brown,top right,en face,43.0,1.0,1.0
+2008.0,6.0,29.0,4.0,Poland,1589.0,skirts,P4,blue,top left,en face,43.0,1.0,1.0
+2008.0,5.0,3.0,10.0,Poland,18012.0,blouses,C55,blue,top right,en face,38.0,1.0,1.0
+2008.0,4.0,25.0,2.0,Poland,4342.0,sale,P6,red,top left,en face,38.0,1.0,1.0
+2008.0,6.0,8.0,8.0,Poland,216.0,sale,P44,black,top left,en face,33.0,1.0,1.0
+2008.0,4.0,7.0,12.0,Poland,1043.0,trousers,A12,blue,bottom left,en face,43.0,2.0,1.0
+2008.0,4.0,24.0,3.0,Poland,14571.0,sale,P13,blue,top left,en face,38.0,2.0,2.0
+2008.0,4.0,15.0,10.0,Poland,8942.0,trousers,B12,red,bottom in the middle,en face,67.0,1.0,1.0
+2008.0,8.0,2.0,17.0,Poland,676.0,trousers,A2,blue,bottom in the middle,en face,28.0,1.0,1.0
+2008.0,4.0,17.0,10.0,Poland,998.0,sale,P5,violet,top left,en face,28.0,1.0,1.0
+2008.0,5.0,5.0,8.0,Poland,7882.0,sale,P3,of many colors,bottom in the middle,en face,48.0,2.0,3.0
+2008.0,7.0,7.0,1.0,Poland,8276.0,skirts,B17,red,top in the middle,profile,38.0,1.0,1.0
+2008.0,4.0,18.0,9.0,Poland,5146.0,skirts,B15,gray,top right,en face,38.0,2.0,3.0
+2008.0,5.0,1.0,6.0,Czech Republic,12363.0,trousers,A15,white,top left,en face,33.0,2.0,1.0
+2008.0,7.0,24.0,26.0,Poland,7276.0,trousers,A32,brown,bottom left,en face,57.0,2.0,1.0
+2008.0,4.0,20.0,7.0,Poland,1714.0,blouses,C56,of many colors,top left,en face,38.0,2.0,1.0
+2008.0,7.0,24.0,7.0,Poland,22614.0,skirts,B16,green,bottom in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,3.0,2.0,Poland,13177.0,blouses,C40,black,bottom left,profile,38.0,1.0,1.0
+2008.0,7.0,27.0,6.0,Poland,14091.0,sale,P1,brown,bottom in the middle,profile,33.0,1.0,1.0
+2008.0,6.0,11.0,3.0,Poland,15940.0,sale,C12,green,bottom in the middle,en face,38.0,1.0,2.0
+2008.0,6.0,22.0,2.0,Poland,796.0,skirts,B29,white,top right,en face,38.0,1.0,3.0
+2008.0,6.0,25.0,4.0,Lithuania,18342.0,blouses,C2,blue,bottom left,profile,38.0,2.0,3.0
+2008.0,4.0,12.0,6.0,Poland,15892.0,sale,P6,black,top left,en face,57.0,1.0,1.0
+2008.0,7.0,4.0,1.0,Poland,7395.0,trousers,A1,green,bottom right,en face,38.0,1.0,1.0
+2008.0,8.0,23.0,8.0,Poland,5236.0,sale,P4,brown,top left,en face,62.0,1.0,1.0
+2008.0,5.0,4.0,24.0,Poland,16250.0,skirts,B24,gray,bottom in the middle,en face,48.0,1.0,1.0
+2008.0,5.0,9.0,2.0,Poland,9819.0,sale,P2,gray,top left,en face,33.0,2.0,1.0
+2008.0,4.0,7.0,3.0,Poland,933.0,trousers,A4,blue,bottom left,en face,62.0,1.0,3.0
+2008.0,5.0,19.0,4.0,Czech Republic,14870.0,skirts,B1,gray,top in the middle,en face,43.0,2.0,1.0
+2008.0,5.0,17.0,12.0,Poland,16053.0,skirts,B31,brown,bottom left,profile,57.0,1.0,1.0
+2008.0,7.0,27.0,2.0,Czech Republic,1609.0,trousers,C10,blue,top in the middle,en face,33.0,2.0,1.0
+2008.0,5.0,12.0,3.0,Poland,11243.0,blouses,P1,black,top left,en face,57.0,2.0,1.0
+2008.0,5.0,12.0,3.0,Poland,16696.0,blouses,C10,black,top right,en face,60.0,2.0,1.0
+2008.0,4.0,11.0,1.0,Poland,18222.0,sale,P6,green,bottom in the middle,profile,28.0,1.0,1.0
+2008.0,6.0,4.0,3.0,Poland,2893.0,trousers,A31,white,bottom left,en face,33.0,1.0,2.0
+2008.0,6.0,10.0,3.0,Poland,19177.0,trousers,A1,brown,top left,profile,38.0,1.0,2.0
+2008.0,4.0,1.0,7.0,Poland,11120.0,blouses,C40,white,top in the middle,en face,33.0,2.0,1.0
+2008.0,8.0,28.0,6.0,Poland,1288.0,sale,B33,red,top right,en face,48.0,1.0,1.0
+2008.0,4.0,8.0,3.0,Poland,4372.0,skirts,B12,of many colors,bottom left,en face,57.0,1.0,3.0
+2008.0,4.0,9.0,27.0,Poland,10771.0,sale,P2,green,top in the middle,en face,62.0,1.0,1.0
+2008.0,6.0,8.0,5.0,Poland,7665.0,trousers,A4,white,top left,profile,28.0,1.0,1.0
+2008.0,5.0,16.0,5.0,Poland,16385.0,trousers,A5,red,bottom in the middle,profile,28.0,2.0,1.0
+2008.0,4.0,27.0,3.0,Poland,7342.0,trousers,A5,black,bottom in the middle,en face,43.0,1.0,1.0
+2008.0,7.0,14.0,2.0,Poland,9336.0,skirts,B29,green,top left,en face,33.0,1.0,2.0
+2008.0,5.0,7.0,11.0,Poland,5489.0,sale,P1,blue,bottom left,en face,28.0,1.0,4.0
+2008.0,4.0,10.0,12.0,Poland,906.0,trousers,A13,blue,bottom in the middle,profile,57.0,2.0,4.0
+2008.0,7.0,7.0,7.0,Czech Republic,632.0,blouses,C50,white,bottom left,en face,38.0,2.0,2.0
+2008.0,6.0,1.0,5.0,Poland,6723.0,skirts,B2,gray,bottom in the middle,en face,43.0,1.0,2.0
+2008.0,5.0,14.0,5.0,Poland,11363.0,blouses,C28,blue,top left,en face,48.0,1.0,3.0
+2008.0,6.0,11.0,2.0,Poland,10336.0,trousers,A23,black,bottom in the middle,en face,62.0,2.0,2.0
+2008.0,5.0,22.0,1.0,Poland,8474.0,blouses,C12,white,bottom right,profile,23.0,1.0,1.0
+2008.0,7.0,28.0,6.0,Poland,1698.0,trousers,A16,blue,top left,en face,43.0,1.0,3.0
+2008.0,6.0,13.0,3.0,Poland,16093.0,sale,P43,black,bottom left,en face,48.0,2.0,1.0
+2008.0,7.0,17.0,1.0,Poland,7696.0,blouses,C15,blue,top in the middle,en face,28.0,1.0,2.0
+2008.0,4.0,20.0,4.0,Poland,10383.0,sale,P6,of many colors,bottom right,en face,38.0,1.0,1.0
+2008.0,7.0,20.0,2.0,Poland,16185.0,sale,P37,blue,top left,profile,38.0,1.0,2.0
+2008.0,6.0,16.0,2.0,Poland,22475.0,trousers,A4,blue,top in the middle,en face,67.0,1.0,1.0
+2008.0,4.0,12.0,1.0,Poland,7243.0,skirts,B10,black,bottom right,profile,62.0,2.0,1.0
+2008.0,5.0,27.0,2.0,Poland,2976.0,blouses,P7,red,top right,en face,62.0,1.0,4.0
+2008.0,8.0,1.0,2.0,Poland,14100.0,trousers,A3,black,bottom left,en face,38.0,1.0,2.0
+2008.0,6.0,27.0,4.0,Poland,19519.0,blouses,C11,white,top left,en face,48.0,2.0,2.0
+2008.0,6.0,25.0,1.0,Poland,6363.0,trousers,A6,blue,top left,en face,43.0,2.0,1.0
+2008.0,7.0,24.0,9.0,Poland,13443.0,sale,P13,blue,bottom right,en face,38.0,1.0,2.0
+2008.0,5.0,16.0,19.0,Poland,2369.0,trousers,A6,blue,top right,en face,28.0,1.0,3.0
+2008.0,5.0,4.0,1.0,Poland,18370.0,trousers,A2,black,bottom left,en face,33.0,1.0,2.0
+2008.0,5.0,28.0,5.0,Czech Republic,15897.0,blouses,C51,black,bottom in the middle,en face,52.0,2.0,1.0
+2008.0,7.0,7.0,5.0,Poland,569.0,skirts,B31,brown,top left,en face,62.0,2.0,1.0
+2008.0,5.0,7.0,2.0,Poland,2544.0,blouses,C53,blue,top in the middle,en face,28.0,2.0,2.0
+2008.0,5.0,8.0,6.0,Poland,14962.0,trousers,A26,blue,top right,profile,48.0,1.0,1.0
+2008.0,2.0,28.0,3.0,Poland,15983.0,blouses,C6,brown,bottom right,en face,62.0,1.0,3.0
+2008.0,4.0,7.0,4.0,Poland,2562.0,skirts,B17,violet,top left,en face,52.0,2.0,1.0
+2008.0,4.0,25.0,7.0,Poland,9776.0,trousers,A1,blue,top left,en face,43.0,1.0,3.0
+2008.0,5.0,4.0,9.0,Poland,12174.0,blouses,C10,gray,top left,en face,43.0,2.0,2.0
+2008.0,7.0,1.0,8.0,Poland,6909.0,blouses,C17,beige,bottom in the middle,en face,62.0,2.0,3.0
+2008.0,7.0,13.0,2.0,Czech Republic,9774.0,trousers,A15,blue,bottom in the middle,profile,33.0,2.0,1.0
+2008.0,4.0,17.0,12.0,Poland,2393.0,trousers,A11,of many colors,top in the middle,en face,48.0,1.0,1.0
+2008.0,4.0,10.0,4.0,Poland,11235.0,blouses,C37,of many colors,bottom in the middle,en face,28.0,2.0,1.0
+2008.0,4.0,7.0,1.0,Poland,12696.0,sale,P9,red,bottom in the middle,en face,33.0,2.0,5.0
+2008.0,6.0,17.0,2.0,Poland,13335.0,sale,P47,white,top in the middle,en face,57.0,1.0,4.0
+2008.0,6.0,29.0,1.0,Poland,14798.0,sale,P2,black,top left,profile,67.0,2.0,2.0
+2008.0,4.0,24.0,12.0,Czech Republic,13784.0,skirts,B15,brown,top left,en face,28.0,2.0,1.0
+2008.0,6.0,1.0,3.0,Poland,16095.0,sale,P6,blue,top left,profile,38.0,2.0,2.0
+2008.0,4.0,18.0,10.0,Czech Republic,16776.0,blouses,C40,gray,bottom in the middle,profile,43.0,1.0,3.0
+2008.0,5.0,3.0,13.0,Poland,7453.0,sale,P3,of many colors,bottom left,en face,38.0,2.0,2.0
+2008.0,4.0,7.0,1.0,Poland,23333.0,skirts,B13,olive,top left,en face,38.0,1.0,3.0
+2008.0,4.0,4.0,5.0,Poland,5730.0,blouses,C56,blue,top in the middle,en face,38.0,1.0,1.0
+2008.0,6.0,5.0,15.0,Poland,15353.0,trousers,A10,brown,top left,en face,2.0,1.0,3.0
+2008.0,6.0,1.0,7.0,Poland,2246.0,sale,P49,of many colors,bottom in the middle,en face,33.0,1.0,3.0
+2008.0,7.0,2.0,9.0,Poland,6212.0,sale,P4,of many colors,top right,en face,28.0,1.0,1.0
+2008.0,8.0,4.0,6.0,Poland,6592.0,skirts,B11,blue,top right,en face,43.0,2.0,1.0
+2008.0,6.0,9.0,1.0,Poland,21521.0,skirts,B10,gray,top in the middle,en face,48.0,1.0,2.0
+2008.0,6.0,11.0,1.0,Poland,14696.0,blouses,P8,gray,bottom in the middle,en face,38.0,1.0,1.0
+2008.0,8.0,28.0,1.0,Poland,734.0,skirts,B12,blue,bottom in the middle,profile,28.0,2.0,1.0
+2008.0,8.0,21.0,8.0,Poland,11988.0,trousers,A1,blue,top left,en face,38.0,2.0,1.0
+2008.0,6.0,12.0,4.0,Poland,3147.0,sale,P58,black,top right,profile,48.0,1.0,2.0
+2008.0,5.0,24.0,22.0,Poland,8250.0,blouses,C21,black,top in the middle,en face,33.0,1.0,1.0
+2008.0,7.0,26.0,2.0,Poland,1596.0,blouses,C5,white,top left,profile,48.0,2.0,1.0
+2008.0,4.0,4.0,1.0,Poland,14094.0,sale,P2,black,top in the middle,en face,43.0,1.0,1.0
+2008.0,5.0,4.0,4.0,Poland,5797.0,blouses,C50,white,bottom in the middle,en face,62.0,1.0,1.0
+2008.0,6.0,2.0,13.0,Poland,20241.0,skirts,B5,green,top in the middle,en face,33.0,2.0,1.0
+2008.0,4.0,21.0,2.0,Poland,14031.0,sale,P1,blue,top left,profile,38.0,1.0,4.0
+2008.0,6.0,9.0,13.0,Poland,19929.0,trousers,A15,black,top left,profile,62.0,2.0,1.0
+2008.0,5.0,12.0,1.0,Poland,13774.0,skirts,B15,of many colors,bottom right,en face,38.0,1.0,1.0
+2008.0,7.0,5.0,6.0,Poland,22371.0,trousers,A9,red,bottom right,en face,28.0,1.0,1.0
+2008.0,4.0,14.0,4.0,Poland,7981.0,trousers,A2,red,top in the middle,en face,43.0,2.0,3.0
+2008.0,7.0,23.0,1.0,Poland,12363.0,sale,P18,green,bottom left,en face,62.0,2.0,4.0
+2008.0,5.0,16.0,1.0,Poland,15896.0,skirts,B16,brown,top in the middle,en face,52.0,2.0,1.0
+2008.0,7.0,2.0,8.0,Poland,18057.0,blouses,C57,blue,bottom left,en face,57.0,2.0,1.0
+2008.0,5.0,3.0,7.0,Poland,17644.0,sale,P2,beige,top right,en face,38.0,2.0,2.0
+2008.0,7.0,13.0,10.0,Poland,16428.0,trousers,A3,white,bottom in the middle,en face,43.0,1.0,2.0
+2008.0,7.0,19.0,3.0,Poland,6174.0,trousers,A2,gray,top right,en face,43.0,2.0,1.0
+2008.0,7.0,12.0,4.0,Poland,2496.0,sale,P6,of many colors,bottom left,profile,43.0,2.0,3.0
+2008.0,1.0,16.0,4.0,Poland,13378.0,trousers,A3,black,top left,en face,38.0,2.0,1.0
+2008.0,4.0,17.0,2.0,Poland,23296.0,trousers,A10,black,top left,en face,62.0,1.0,1.0
+2008.0,8.0,16.0,1.0,Poland,7963.0,sale,P1,pink,bottom right,en face,43.0,2.0,1.0
+2008.0,5.0,5.0,2.0,Poland,15160.0,skirts,B9,blue,top in the middle,profile,43.0,1.0,1.0
+2008.0,6.0,21.0,2.0,Poland,20333.0,trousers,A4,violet,top in the middle,en face,28.0,1.0,1.0
+2008.0,5.0,21.0,9.0,Poland,13190.0,skirts,B15,blue,bottom left,en face,38.0,1.0,1.0
+2008.0,6.0,18.0,2.0,Poland,9052.0,sale,P29,white,bottom in the middle,en face,33.0,2.0,1.0
+2008.0,4.0,11.0,4.0,Poland,939.0,sale,B31,white,top left,en face,57.0,1.0,1.0
+2008.0,4.0,13.0,12.0,Poland,1776.0,trousers,A3,blue,top left,en face,57.0,1.0,1.0
+2008.0,5.0,8.0,7.0,Czech Republic,14177.0,sale,P3,violet,top in the middle,en face,28.0,2.0,3.0
+2008.0,7.0,4.0,1.0,Poland,13363.0,blouses,B21,blue,bottom right,en face,28.0,2.0,1.0
+2008.0,5.0,1.0,5.0,Poland,8776.0,sale,P6,black,top right,profile,28.0,2.0,1.0
+2008.0,5.0,10.0,2.0,Poland,15975.0,skirts,B31,black,top right,en face,43.0,1.0,1.0
+2008.0,7.0,4.0,4.0,Poland,23339.0,sale,P5,blue,top left,en face,38.0,1.0,2.0
+2008.0,5.0,8.0,15.0,Poland,13.0,sale,P29,beige,top right,en face,43.0,2.0,1.0
+2008.0,4.0,2.0,11.0,Poland,898.0,skirts,B15,olive,top in the middle,profile,62.0,1.0,2.0
+2008.0,4.0,19.0,33.0,Poland,15996.0,sale,P2,blue,top in the middle,en face,28.0,2.0,3.0
+2008.0,6.0,7.0,2.0,Poland,18835.0,trousers,A31,blue,top in the middle,en face,38.0,2.0,5.0
+2008.0,7.0,2.0,4.0,Poland,16091.0,blouses,C19,white,bottom right,en face,33.0,1.0,1.0
+2008.0,6.0,12.0,57.0,Poland,11943.0,trousers,A38,black,top left,en face,62.0,2.0,1.0
+2008.0,4.0,1.0,1.0,Poland,1298.0,trousers,A21,gray,top in the middle,en face,48.0,2.0,2.0
+2008.0,6.0,8.0,8.0,Poland,6722.0,skirts,B15,of many colors,top right,en face,52.0,2.0,1.0
+2008.0,7.0,20.0,11.0,Poland,1510.0,sale,P2,of many colors,bottom right,en face,38.0,1.0,2.0
+2008.0,5.0,1.0,1.0,Poland,8265.0,sale,P58,blue,top left,en face,38.0,2.0,3.0
+2008.0,5.0,12.0,3.0,Poland,8472.0,blouses,P5,blue,bottom right,profile,57.0,1.0,1.0
+2008.0,6.0,6.0,4.0,Poland,2512.0,skirts,B8,of many colors,bottom right,en face,62.0,2.0,3.0
+2008.0,5.0,7.0,8.0,Poland,23151.0,blouses,C11,black,top left,en face,43.0,2.0,3.0
+2008.0,7.0,2.0,2.0,Poland,21540.0,sale,P49,blue,bottom right,en face,38.0,1.0,2.0
+2008.0,5.0,10.0,7.0,Czech Republic,1809.0,blouses,C41,blue,top left,en face,57.0,2.0,1.0
+2008.0,4.0,27.0,3.0,Poland,15390.0,trousers,A6,blue,bottom in the middle,en face,33.0,1.0,1.0
+2008.0,6.0,11.0,10.0,Poland,1209.0,sale,P17,brown,top left,profile,62.0,2.0,1.0
+2008.0,6.0,8.0,8.0,Poland,1535.0,trousers,A5,black,top left,en face,52.0,2.0,1.0
+2008.0,6.0,14.0,7.0,Czech Republic,18383.0,skirts,B10,black,bottom left,en face,38.0,2.0,1.0
+2008.0,4.0,3.0,1.0,Poland,8170.0,blouses,C40,brown,bottom right,profile,43.0,1.0,2.0
+2008.0,4.0,19.0,4.0,Poland,788.0,blouses,C28,red,top in the middle,en face,33.0,1.0,3.0
+2008.0,6.0,31.0,4.0,Poland,18057.0,trousers,A11,white,top left,en face,28.0,2.0,3.0
+2008.0,7.0,16.0,5.0,Poland,7776.0,sale,P16,of many colors,bottom right,en face,38.0,2.0,1.0
+2008.0,6.0,11.0,13.0,Poland,10696.0,sale,P6,gray,top right,profile,48.0,1.0,1.0
+2008.0,5.0,9.0,3.0,Poland,7583.0,sale,P17,of many colors,top left,en face,38.0,1.0,1.0
+2008.0,6.0,25.0,5.0,Poland,1809.0,sale,P15,black,top right,profile,33.0,1.0,1.0
+2008.0,5.0,12.0,7.0,Poland,1586.0,sale,P1,gray,top left,profile,28.0,1.0,2.0
+2008.0,4.0,3.0,8.0,Poland,1812.0,trousers,A3,blue,top left,en face,28.0,2.0,1.0
+2008.0,4.0,2.0,7.0,Poland,4363.0,trousers,A2,brown,top right,en face,28.0,2.0,1.0
+2008.0,7.0,1.0,3.0,Poland,9123.0,blouses,C17,white,bottom right,en face,38.0,2.0,1.0
+2008.0,4.0,20.0,9.0,Poland,7335.0,skirts,B9,red,top in the middle,en face,38.0,1.0,1.0
+2008.0,5.0,18.0,11.0,Poland,14222.0,trousers,A11,white,top in the middle,en face,43.0,1.0,1.0
+2008.0,5.0,1.0,1.0,Poland,14990.0,sale,P21,blue,bottom left,profile,28.0,1.0,1.0
+2008.0,7.0,4.0,10.0,Poland,17981.0,sale,P34,brown,top in the middle,en face,43.0,1.0,2.0
+2008.0,5.0,31.0,8.0,Poland,9071.0,sale,P36,brown,bottom in the middle,profile,38.0,1.0,1.0
+2008.0,4.0,25.0,1.0,Poland,16276.0,skirts,B24,white,top right,en face,43.0,2.0,4.0
+2008.0,4.0,12.0,1.0,Poland,13990.0,sale,P16,white,bottom right,en face,48.0,1.0,1.0
+2008.0,5.0,9.0,10.0,Poland,12013.0,sale,P1,black,top in the middle,en face,33.0,1.0,1.0
+2008.0,5.0,4.0,6.0,Poland,18051.0,sale,P13,black,bottom in the middle,en face,48.0,2.0,2.0
+2008.0,4.0,11.0,6.0,Poland,1409.0,sale,P2,black,top left,profile,28.0,2.0,1.0
+2008.0,4.0,22.0,3.0,Poland,8185.0,sale,P6,brown,top left,en face,28.0,2.0,1.0
+2008.0,6.0,7.0,13.0,Poland,16160.0,blouses,C35,blue,top in the middle,en face,43.0,1.0,4.0
+2008.0,7.0,16.0,5.0,Poland,615.0,trousers,A6,blue,top left,en face,52.0,2.0,1.0
+2008.0,5.0,22.0,7.0,Poland,18092.0,trousers,A9,blue,top left,en face,38.0,1.0,2.0
+2008.0,5.0,6.0,1.0,Poland,5353.0,sale,P51,white,top left,en face,57.0,2.0,1.0
+2008.0,6.0,3.0,8.0,Poland,6176.0,blouses,C35,black,top right,en face,43.0,2.0,2.0
+2008.0,4.0,16.0,5.0,Poland,7486.0,skirts,B30,gray,top left,en face,33.0,2.0,2.0
+2008.0,6.0,6.0,1.0,Poland,3330.0,skirts,B15,black,top left,en face,43.0,2.0,1.0
+2008.0,5.0,21.0,5.0,Poland,3270.0,trousers,A31,brown,top in the middle,profile,48.0,1.0,5.0
+2008.0,5.0,26.0,1.0,Poland,71004.0,sale,P16,of many colors,top left,en face,28.0,2.0,2.0
+2008.0,5.0,21.0,1.0,Poland,19250.0,trousers,A15,white,top right,en face,48.0,2.0,2.0
+2008.0,5.0,8.0,11.0,Poland,1197.0,skirts,B15,white,top in the middle,en face,38.0,1.0,4.0
+2008.0,4.0,5.0,15.0,Poland,1489.0,skirts,B8,blue,top in the middle,en face,57.0,1.0,1.0
+2008.0,7.0,17.0,2.0,Poland,6861.0,skirts,B11,blue,bottom right,en face,33.0,2.0,1.0
+2008.0,4.0,3.0,6.0,Poland,16336.0,trousers,A10,green,top right,en face,28.0,1.0,1.0
